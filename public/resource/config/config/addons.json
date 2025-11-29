@@ -1,0 +1,157 @@
+{
+  "heading": "Add-ons",
+  "subheading": "Mix and match modular add-ons to tailor every welcome kit or gift bundle to your brand",
+  "homeFeaturedIds": ["UBGT008", "UBGT007", "UBGT006", "UBGT001"],
+  "items": [
+    {
+      "id": "UBGT001",
+      "name": "Premium 3-in-1 Essentials Set",
+      "description": "A sleek combo featuring a metal bottle, metallic pen, and a premium diary. Perfect for corporate gifting or employee welcome kits.",
+      "images": ["/resource/catalog_image/UBGT001_1.png", "/resource/catalog_image/UBGT001_2.png"],
+      "price": "450",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Premium metal water bottle",
+        "High-quality metallic pen",
+        "Hardbound corporate diary",
+        "Colour theme: Red/Grey"
+      ]
+    },
+    {
+      "id": "UBGT002",
+      "name": "Wooden Finish 3-in-1 Combo",
+      "description": "A natural and earthy-themed set with a wooden bottle, wooden pen, and wooden-design diary — perfect for premium gifting.",
+      "images": ["/resource/catalog_image/UBGT002_1.png"],
+      "price": "450",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Wooden textured bottle",
+        "Natural wood-style pen",
+        "Wooden theme diary",
+        "Colour option: Red/Grey"
+      ]
+    },
+    {
+      "id": "UBGT003",
+      "name": "Classic 2-in-1 Writing Kit",
+      "description": "A refined corporate gifting combo with a premium leather diary and metallic pen, ideal for executives and professionals.",
+      "images": ["/resource/catalog_image/UBGT003_1.png"],
+      "price": "354",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Premium metallic pen",
+        "Luxury leather diary",
+        "Colour option: Blue"
+      ]
+    },
+    {
+      "id": "UBGT004",
+      "name": "Leather Corporate Keepsake",
+      "description": "A premium leather gift accessory designed in a sleek rectangular shape — a classy addition to any kit or gifting bundle.",
+      "images": ["/resource/catalog_image/UBGT004_1.png", "/resource/catalog_image/UBGT004_2.png", "/resource/catalog_image/UBGT004_3.png"],
+      "price": "274",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Soft-touch leather finish",
+        "Corporate utility accessory",
+        "Elegant black colour",
+        "Rectangular premium form"
+      ]
+    },
+    {
+      "id": "UBGT005",
+      "name": "Executive 3-in-1 Utility Set",
+      "description": "A smart corporate gifting pack including a high-quality pen, stylish keychain, and a classic cardholder — compact and impactful.",
+      "images": ["/resource/catalog_image/UBGT005_1.png", "/resource/catalog_image/UBGT005_2.png"],
+      "price": "374",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Smooth writing premium pen",
+        "Metallic designer keychain",
+        "Premium leather cardholder"
+      ]
+    },
+    {
+      "id": "UBGT006",
+      "name": "Tech & Drinkware 4-in-1 Combo",
+      "description": "A versatile gift set including a pen drive, bottle, pen, and keychain — suited for office gifting, events, and onboarding kits.",
+      "images": ["/resource/catalog_image/UBGT006_1.png"],
+      "price": "654",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "High-speed USB pen drive",
+        "Durable hydration bottle",
+        "Smooth writing pen",
+        "Metal key chain"
+      ]
+    },
+    {
+      "id": "UBGT007",
+      "name": "Elite 4-in-1 Leather Stationery Set",
+      "description": "A premium office accessory set with a metallic pen, leather diary, keychain, and cardholder — stylish, compact, and professional.",
+      "images": ["/resource/catalog_image/UBGT007_1.png"],
+      "price": "533",
+      "badge": "Best Seller",
+      "itemsIncluded": [
+        "Premium metallic pen",
+        "Luxury leather diary",
+        "Elegant leather cardholder",
+        "Metal key chain"
+      ]
+    },
+    {
+      "id": "UBGT008",
+      "name": "Premium 8-in-1 Corporate Gift Set",
+      "description": "A luxurious multi-utility corporate set featuring drinkware, stationery, and accessories — perfect for leadership & VIP gifting.",
+      "images": ["/resource/catalog_image/UBGT008_1.png", "/resource/catalog_image/UBGT008_2.png", "/resource/catalog_image/UBGT008_3.png"],
+      "price": "1424",
+      "badge": "Premium",
+      "itemsIncluded": [
+        "Premium metallic pen",
+        "Luxury leather diary",
+        "Slim leather cardholder",
+        "Insulated sipper bottle",
+        "Steel water bottle",
+        "High-precision wireless mouse",
+        "Ceramic coffee mug",
+        "Metallic keychain"
+      ]
+    },
+    {
+      "id": "UBGT009",
+      "name": "Rustic 5-in-1 Executive Hamper",
+      "description": "A wooden theme inspired gift set featuring a metallic pen, leather diary, desk calendar, water bottle and keychain — elegant & warm.",
+      "images": ["/resource/catalog_image/UBGT009_1.png"],
+      "price": "775",
+      "badge": "Premium",
+      "itemsIncluded": [
+        "Rustic wooden theme design",
+        "Premium metallic pen",
+        "Classic leather diary",
+        "Desk calendar",
+        "Stainless water bottle",
+        "Metal keychain"
+      ]
+    },
+    {
+      "id": "UBGT010",
+      "name": "9-in-1 Onboarding & Corporate Kit",
+      "description": "The ultimate employee welcome kit — complete with apparel, drinkware, stationery, laptop bag & more for an unforgettable first day.",
+      "images": ["/resource/catalog_image/UBGT010_1.png"],
+      "price": "826",
+      "badge": "Premium",
+      "itemsIncluded": [
+        "Premium polo T-shirt",
+        "Laptop travel bag",
+        "Insulated water bottle",
+        "Lid-lock coffee mug",
+        "Metal keychain",
+        "Premium ball pen",
+        "Office notebook",
+        "Personal stationery kit",
+        "Professional cardholder"
+      ]
+    }
+  ],
+  "note": "⚙️ <strong>Tip:</strong> Add-ons can be bundled with any value-for-money pack, standalone item, or custom kit for personalised gifting."
+}

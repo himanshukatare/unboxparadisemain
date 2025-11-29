@@ -1,0 +1,93 @@
+{
+  "heading": "Standalone Items",
+  "subheading": "Choose from our wide range of customizable products perfect for corporate branding and gifting",
+  "note": "💡 <strong>Customize Your Way:</strong> All items can be personalized with your company logo, custom text, or branding. Minimum order quantities apply.",
+  "homeFeaturedIds": [
+      "UBWT005",
+      "UBLB004",
+      "UBDY001",
+      "UBWB007"
+  ],
+  "items": [
+        {
+          "id": "UBWT005",
+          "name": "Elite Cotton Matty Polo",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "originalPrice": "799",
+          "price": "499",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWT005_1.png",
+            "/resource/catalog_image/UBWT005_2.png"
+          ],
+          "description": [
+            "100% Cotton Matty",
+            "220 GSM Premium Quality",
+            "Polo Neck",
+            "Half/Full Sleeves Regular Fit",
+            "Ideal for Corporate, Events & Casual Wear",
+            "Customization: Logo & Design Printing Available",
+            "Soft, breathable & long-lasting fabric"
+          ]
+        },
+        {
+          "id": "UBLB004",
+          "name": "Laptop Side Bag",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "999",
+          "price": "439",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBLB004_1.png"
+          ],
+          "description": [
+            "Material - Italian Leather",
+            "Usage/Application - Corporate Gifting",
+            "multiple compartments for storing chargers,mouse, pens, documents",
+            "Design/Pattern - Plain",
+            "Water Proof"
+          ]
+        },
+        {
+          "id": "UBDY001",
+          "name": "Leather Cover Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "originalPrice": "149",
+          "price": "89",
+          "startingFrom": false,
+          "description": [
+            "A6 Compact Size",
+            "PU Leather Hard Cover",
+            "Elastic Closure",
+            "192 Pages"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY001.PNG",
+            "/resource/catalog_image/UBDY001_2.PNG"
+          ]
+        },
+        {
+          "id": "UBWB007",
+          "name": "MaxInsulate",
+          "image": "/resource/welcomekit1.avif",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "699",
+          "price": "419",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB007_1.png",
+            "/resource/catalog_image/UBWB007_2.jpg"
+          ],
+          "description": [
+            "PREMIUM DESIGN",
+            "1000 ml Capacity",
+            "Premium Build Quality",
+            "Customisable Design",
+            "Perfect for Office, School, Travel & Sports",
+            "Leak Proof Lid",
+            "Vacuum insulation maintains hot/cold beverages for up to 12 hours"
+          ]
+        }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "carousel": [
+    {
+      "id": 0,
+      "image": "/resource/catalog_image/banner_main.png",
+      "alt": "Welcome Kits",
+      "icon": "🎁",
+      "title": "Premium Gift Boxes",
+      "description": "Experience the joy of beautifully curated and elegantly packaged gift boxes that create unforgettable unboxing moments.",
+      "gradient": "from-white via-orange-100 to-pink-100"
+    },
+    {
+      "id": 1,
+      "image": "/resource/catalog_image/banner_1.png",
+      "alt": "Welcome Kits",
+      "icon": "🎁",
+      "title": "Premium Gift Boxes",
+      "description": "Experience the joy of beautifully curated and elegantly packaged gift boxes that create unforgettable unboxing moments.",
+      "gradient": "from-white via-orange-100 to-pink-100"
+    },
+    {
+      "id": 2,
+      "image": "/resource/catalog_image/banner_2.png",
+      "title": "Corporate Solutions",
+      "gradient": "from-white via-pink-100 to-purple-100"
+    },
+    {
+      "id": 3,
+      "image": "/resource/catalog_image/banner_3.png",
+      "alt": "Welcome Kits",
+      "icon": "✨",
+      "title": "Customized Excellence",
+      "description": "Personalized designs, premium quality, and swift delivery - everything you need to make every occasion special.",
+      "gradient": "from-white via-orange-100 to-pink-100"
+    }
+  ]
+}

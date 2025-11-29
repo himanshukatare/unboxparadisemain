@@ -1,0 +1,39 @@
+{
+  "heading": "Value-for-Money Packs",
+  "packs": [
+    {
+      "id": "UBPBUN001",
+      "name": "Basic",
+      "kitName": "Starter Edition",
+      "tagline": "",
+      "items": "👕 T-shirt + 💌 Welcome Card + 📄 Notepad + 🖊️ Pen",
+      "actualPrice": "₹699",
+      "price": "₹499",
+      "textColor": "text-pink-600",
+      "image": "/resource/welcomekit1.avif"
+    },
+    {
+      "id": "UBPBUN002",
+      "name": "Standard",
+      "kitName": "Starter Plus Edition",
+      "tagline": "",
+      "items": "👕 T-shirt + 📄 Notepad + 🖊️ Pen + 💌 Welcome Card + 🧴 Water Bottle",
+      "actualPrice": "₹899",
+      "price": "₹599",
+      "textColor": "text-pink-600",
+      "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp"
+    },
+    {
+      "id": "UBPBUN003",
+      "name": "Advanced",
+      "kitName": "Starter Pro Edition",
+      "tagline": "",
+      "items": "👕 T-shirt + 📄 Notepad + 🖊️ Pen + 🪪 ID Card + 🧴 Water Bottle + 🎒 Bag",
+      "actualPrice": "₹1099",
+      "price": "₹799",
+      "textColor": "text-pink-600",
+      "image": "/resource/corporategift.webp"
+    }
+  ],
+  "note": "📝 <strong>Note:</strong> You can customise items according to your brand name and logo for T-shirts, Pen, Notepad, Water Bottle, etc. You can also add addons to each value-for-money pack to personalize your kit further."
+}

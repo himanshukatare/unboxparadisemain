@@ -1,0 +1,53 @@
+{
+  "heading": "Why Choose Us?",
+  "reasons": [
+    {
+      "id": 1,
+      "icon": "🪙",
+      "image": "/resource/bestprice.jfif",
+      "title": "Competitive Pricing",
+      "description": "Top quality at minimal cost - best value for your investment.",
+      "color": "from-orange-500 to-orange-600"
+    },
+    {
+      "id": 2,
+      "icon": "🚚",
+      "image": "/resource/fastdelivery.png",
+      "title": "Fastest Delivery",
+      "description": "On time, every time - fastest delivery in the industry.",
+      "color": "from-pink-500 to-pink-600"
+    },
+    {
+      "id": 3,
+      "icon": "🏆",
+      "image": "/resource/bestquality.webp",
+      "title": "Premium Quality",
+      "description": "Best materials and elegant packaging guaranteed.",
+      "color": "from-purple-500 to-purple-600"
+    },
+    {
+      "id": 4,
+      "icon": "🛠️",
+      "image": "/resource/hasslefree.png",
+      "title": "Hassle-Free Experience",
+      "description": "Seamless journey from design to doorstep delivery.",
+      "color": "from-orange-600 to-orange-700"
+    },
+    {
+      "id": 5,
+      "icon": "✨",
+      "image": "/resource/creative.jfif",
+      "title": "One-Point Solution",
+      "description": "Printing, packaging, personalization & logistics - all under one roof.",
+      "color": "from-pink-600 to-pink-700"
+    },
+    {
+      "id": 6,
+      "icon": "🎨",
+      "image": "/resource/creative.jfif",
+      "title": "Creative Design Support",
+      "description": "Expert design team to bring your vision to life.",
+      "color": "from-purple-600 to-purple-700"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "phone": {
+    "display": "+91 96309 88265",
+    "link": "tel:+919630988265"
+  },
+  "whatsapp": {
+    "display": "+91 96309 88265",
+    "link": "https://wa.me/919630988265"
+  },
+  "email": {
+    "display": "contact@unboxparadise.com",
+    "link": "mailto:contact@unboxparadise.com"
+  },
+  "address": {
+    "lines": [
+      "Unbox Paradise",
+      "Indore, Madhya Pradesh",
+      "India"
+    ]
+  },
+  "social": {
+    "instagram": {
+      "handle": "@unboxparadise",
+      "url": "https://instagram.com/unboxparadise"
+    },
+    "facebook": {
+      "handle": "@unboxparadise",
+      "url": "https://facebook.com/unboxparadise"
+    },
+    "linkedin": {
+      "handle": "@unboxparadise",
+      "url": "https://linkedin.com/company/unboxparadise"
+    },
+    "twitter": {
+      "handle": "@unboxparadise",
+      "url": "https://twitter.com/unboxparadise"
+    }
+  }
+}

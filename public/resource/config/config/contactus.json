@@ -1,0 +1,41 @@
+{
+  "heading": "Contact Us",
+  "companyName": "Unbox Paradise",
+  "address": {
+    "label": "Address",
+    "value": "e/26 new minal bhopal 462023"
+  },
+  "phone": {
+    "label": "Phone",
+    "value": "+91 96309 88265",
+    "link": "tel:+919630988265"
+  },
+  "email": {
+    "label": "Email",
+    "value": "contact@unboxparadise.com",
+    "link": "mailto:contact@unboxparadise.com"
+  },
+  "socialMedia": {
+    "label": "Follow Us",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "Twitter",
+        "url": "https://twitter.com/unboxparadise",
+        "icon": "twitter"
+      },
+      {
+        "id": 2,
+        "name": "Instagram",
+        "url": "https://instagram.com/unboxparadise",
+        "icon": "instagram"
+      },
+      {
+        "id": 3,
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/unboxparadise",
+        "icon": "linkedin"
+      }
+    ]
+  }
+}

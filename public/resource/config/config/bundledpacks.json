@@ -1,0 +1,193 @@
+{
+  "heading": "Bundled Packs",
+  "subheading": "Discover our curated collection of premium bundled packs designed to impress and delight",
+  "homeFeaturedIds": [
+    "UBPBUN009",
+    "UBPBUN010",
+    "employee-joining",
+    "executive-bundle"
+  ],
+  "note": "💡 <strong>Note:</strong> All packs can be customized according to your requirements. Contact us for personalized solutions!",
+  "items": [
+    {
+      "id": "UBPBUN009",
+      "name": "Welcome Essentials Kit",
+      "description": "A practical, well-balanced selection of everyday office must-haves, ensuring new employees have everything they need to begin their journey confidently.",
+      "images": [
+        "/resource/catalog_image/UBPBUN009_1.png",
+        "/resource/catalog_image/UBPBUN009_2.png"
+      ],
+      "image": "/resource/catalog_image/30.png",
+      "price": "2499",
+      "originalPrice": "3499",
+      "badge": "Popular",
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Stainless Steel Water Bottle",
+        "Welcome Card"
+      ]
+    },
+    {
+      "id": "UBPBUN010",
+      "name": "Welcome Prestige Kit",
+      "description": "A sophisticated and elegant welcome kit crafted to deliver a top-tier corporate experience, perfect for making new hires feel valued and distinguished.",
+      "price": "3499",
+      "originalPrice": "4499",
+      "badge": "Best Seller",
+      "images": [
+        "/resource/catalog_image/UBPBUN010.png"
+      ],
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Stainless Steel Water Bottle",
+        "Branded T-shirt",
+        "Welcome Card"
+      ]
+    },
+    {
+      "id": "UBPBUN011",
+      "name": "Welcome Smart Kit",
+      "description": "A modern and functional kit featuring smart, productivity-boosting items designed to support efficient work and a smooth start to the workplace.",
+      "image": "/resource/welcomekit3.avif",
+      "price": "3999",
+      "originalPrice": "4999",
+      "badge": "New Arrival",
+      "images": [
+        "/resource/catalog_image/UBPBUN011.png"
+      ],
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Stainless Steel Water Bottle",
+        "Branded T-shirt",
+        "Assorted Sweets Box",
+        "Coffee Mug",
+        "Welcome Card"
+      ]
+    },
+    {
+      "id": "UBPBUN013",
+      "name": "Welcome Echo Smart Kit",
+      "description": "A thoughtfully curated smart kit featuring high-utility accessories like an Echo water bottle and eco-friendly jute bag, designed to deliver a premium and sustainable onboarding experience.",
+      "image": "/resource/welcomekit4.avif",
+      "price": "4499",
+      "originalPrice": "5499",
+      "badge": "Premium",
+      "images": [
+        "/resource/catalog_image/UBPBUN013.png"
+      ],
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Echo Water Bottle",
+        "Branded T-shirt",
+        "Assorted Sweets Box",
+        "Welcome Card"
+      ]
+    },
+        {
+      "id": "UBPBUN012",
+      "name": "Welcome Echo Elite Kit",
+      "description": "A thoughtfully curated smart kit featuring high-utility accessories like an Echo water bottle and eco-friendly jute bag, designed to deliver a premium and sustainable onboarding experience.",
+      "image": "/resource/welcomekit4.avif",
+      "price": "4499",
+      "originalPrice": "5499",
+      "badge": "Premium",
+      "images": [
+        "/resource/catalog_image/UBPBUN012.png"
+      ],
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Echo Water Bottle",
+        "Branded T-shirt",
+        "Assorted Sweets Box",
+        "Welcome Card",
+        "Jute Bag"
+      ]
+    },
+    {
+      "id": "UBPBUN008",
+      "name": "Welcome Elite Kit",
+      "description": "A thoughtfully curated smart kit featuring high-utility accessories like an Echo water bottle and eco-friendly jute bag, designed to deliver a premium and sustainable onboarding experience.",
+      "image": "/resource/welcomekit4.avif",
+      "price": "4499",
+      "originalPrice": "5499",
+      "badge": "Premium",
+      "images": [
+        "/resource/catalog_image/UBPBUN012.png"
+      ],
+      "itemsIncluded": [
+        "Premium Diary",
+        "Executive Pen",
+        "Metal Keychain",
+        "Premium Water Bottle",
+        "Branded T-shirt",
+        "Assorted Sweets Box",
+        "Welcome Card",
+        "Jute Bag"
+      ]
+    },
+    {
+    "id": "UBPBUN001",
+    "name": "Starter Edition",
+    "description": "A simple and budget-friendly welcome kit with daily use essentials. Perfect for fresh joiners and interns.",
+    "itemsIncluded": [
+      "T-shirt",
+      "Welcome Card",
+      "Notepad",
+      "Pen"
+    ],
+    "originalPrice": "₹699",
+    "price": "₹499",
+    "textColor": "text-pink-600",
+    "images": [
+      "/resource/catalog_image/UBPBUN001.png"
+    ]
+  },
+  {
+    "id": "UBPBUN002",
+    "name": "Starter Plus Edition",
+    "description": "A balanced kit combining utility and presentation for better onboarding experience. Great for mid-level welcome programs.",
+    "itemsIncluded": [
+      "T-shirt",
+      "Notepad",
+      "Pen",
+      "Welcome Card",
+      "Water Bottle"
+    ],
+    "originalPrice": "₹899",
+    "price": "₹599",
+    "textColor": "text-pink-600",
+    "images": [
+      "/resource/catalog_image/UBPBUN002.png"
+    ]
+  },
+  {
+    "id": "UBPBUN003",
+    "name": "Starter Pro Edition",
+    "description": "Premium onboarding bundle for a top-notch welcome experience. Ideal for professional teams and high-value employees.",
+    "itemsIncluded": [
+      "T-shirt",
+      "Notepad",
+      "Pen",
+      "ID Card",
+      "Water Bottle",
+      "Bag"
+    ],
+    "originalPrice": "₹1099",
+    "price": "₹799",
+    "textColor": "text-pink-600",
+    "images": [
+       "/resource/catalog_image/UBPBUN003.png"
+    ]
+  }
+  ]
+}

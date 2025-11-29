@@ -1,0 +1,1609 @@
+{
+  "heading": "Product Catalog",
+  "subheading": "Browse our complete collection of customizable products organized by category",
+  "categories": [
+    {
+      "id": "wearables",
+      "name": "Wearables",
+      "description": "Premium quality apparel and accessories, perfect for corporate branding",
+      "items": [
+        {
+          "id": "UBWT001",
+          "name": "Marathon Custom T-Shirt",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "images": [
+            "/resource/catalog_image/UBWT001_1.png"
+          ],
+          "originalPrice": "199",
+          "price": "99",
+          "startingFrom": true,
+          "badge": "Marathon",
+          "description": [
+            "Advanced Moisture Wicking",
+            "Polyester material",
+            "Marathon, Pramotional T-SHIRTS",
+            "Vibrant DTG printing that preserves brand colors"
+          ]
+        },
+        {
+          "id": "UBWT0012",
+          "name": "Classic Cotton Polo",
+          "badge": "Value Pack",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "images": [
+            "/resource/catalog_image/UBWT0012_1.png",
+            "/resource/catalog_image/UBWT0012_2.png"
+          ],
+          "originalPrice": "399",
+          "price": "249",
+          "startingFrom": false,
+          "description": [
+            "Neck - Collar ",
+            "Material - Cotton",
+            "Sweat absorbent & breathable",
+            "Fit - Regular Fit",
+            "220 GSM",
+            "Sleeves Type - Half Sleeves"
+          ]
+        },
+        {
+          "id": "UBWT0013",
+          "name": "Corporate Dri-Fit Polo",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "images": [
+            "/resource/catalog_image/UBWT0013_1.png",
+            "/resource/catalog_image/UBWT0013_2.png",
+            "/resource/catalog_image/UBWT0013_3.png",
+            "/resource/catalog_image/UBWT0013_4.png"
+          ],
+          "originalPrice": "499",
+          "price": "339",
+          "startingFrom": false,
+          "badge": "Popular",
+          "description": [
+            "Fabric -Polyester",
+            "quick-dry polyester fabric",
+            "Lightweight and durable",
+            "Quick-dry technology",
+            "Soft, Shiny & comfortable",
+            "Sleeves Type - Half Sleeves"
+          ]
+        },
+        {
+          "id": "UBWT0014",
+          "name": "Premium Honeycomb Polo",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "originalPrice": "659",
+          "price": "399",
+          "badge": "Corporate Favorite",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWT0014_1.png",
+            "/resource/catalog_image/UBWT0014_2.png",
+            "/resource/catalog_image/UBWT0014_3.png",
+            "/resource/catalog_image/UBWT0014_4.png"
+          ],
+          "description": [
+            "Neck Style -Polo / Collar",
+            "Fabric -Cotton",
+            "Premium honeycomb texture",
+            "Breathable & strong",
+            "Perfect for office & outings.",
+            "Fabric Weight -220 GSM",
+            "Sleeves Type-Half sleeves"
+          ]
+        },
+        {
+          "id": "UBWT005",
+          "name": "Elite Cotton Matty Polo",
+          "badge": "Executive Choice",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "originalPrice": "799",
+          "price": "499",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWT005_1.png",
+            "/resource/catalog_image/UBWT005_2.png"
+          ],
+          "description": [
+            "100% Cotton Matty",
+            "220 GSM Premium Quality",
+            "Polo Neck",
+            "Half/Full Sleeves Regular Fit",
+            "Ideal for Corporate, Events & Casual Wear",
+            "Customization: Logo & Design Printing Available",
+            "Soft, breathable & long-lasting fabric"
+          ]
+        },
+        {
+          "id": "UBWT006",
+          "name": "Elite Plus Tshirt",
+          "badge": "Luxury Range",
+          "image": "/resource/catalog_image/UBWH001.png",
+          "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
+          "originalPrice": "999",
+          "price": "599",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWT006_2.png",
+            "/resource/catalog_image/UBWT006_1.png"
+          ],
+          "description": [
+            "Material - Poly cotton",
+            "220 GSM Premium Quality",
+            "premium & structured",
+            "Wrinkle resistant",
+            "Durable and comfortable",
+            "Quick Dry Technology",
+            "Balanced (soft + strong)"
+          ]
+        },
+        {
+          "id": "UBWH004",
+          "name": "Classic Hoodie",
+          "image": "/resource/catalog_image/UBWH001.png",
+          "searchText": "promotional hoodie, corporate hoodie, team hoodie, college hoodie, startup hoodie, event hoodie,hoodie, hooded sweatshirt, pullover hoodie, zip-up hoodie, hooded jacket, fleece hoodie, cotton hoodie, oversized hoodie, streetwear hoodie, casual hoodie, winter hoodie,  lightweight hoodie, athletic hoodie, gym hoodie, unisex hoodie, mens hoodie, womens hoodie, custom hoodie, printed hoodie, embroidered hoodie, logo hoodie, branded hoodie",
+          "originalPrice": "699",
+          "price": "399",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWH004_1.png",
+            "/resource/catalog_image/UBWH004_2.png"
+          ],
+          "description": [
+            "Material - POLY COTTON",
+            "More durable",
+            "Less shrinkage",
+            "Less wrinkling",
+            "Quick Dry Technology",
+            "Usage/Application -CORPORATE WEAR"
+          ]
+        },
+        {
+          "id": "UBWH005",
+          "name": "Fleece Logo Hoodie",
+          "image": "/resource/catalog_image/UBWH001.png",
+          "searchText": "promotional hoodie, corporate hoodie, team hoodie, college hoodie, startup hoodie, event hoodie,hoodie, hooded sweatshirt, pullover hoodie, zip-up hoodie, hooded jacket, fleece hoodie, cotton hoodie, oversized hoodie, streetwear hoodie, casual hoodie, winter hoodie,  lightweight hoodie, athletic hoodie, gym hoodie, unisex hoodie, mens hoodie, womens hoodie, custom hoodie, printed hoodie, embroidered hoodie, logo hoodie, branded hoodie",
+          "originalPrice": "699",
+          "price": "449",
+          "startingFrom": false,
+          "badge": "Best Seller",
+          "images": [
+            "/resource/catalog_image/UBWH005_1.png",
+            "/resource/catalog_image/UBWH005_2.png",
+            "/resource/catalog_image/UBWH005_3.png",
+            "/resource/catalog_image/UBWH005_4.png"
+          ],
+          "description": [
+            "Fabric -Fleece",
+            "Color -Black",
+            "Style - Pullover",
+            "Pattern -Printed",
+            "Print Type - Brand Logo"
+          ]
+        },
+        {
+          "id": "UBWH006",
+          "name": "Cotton Hoodie",
+          "originalPrice": "999",
+          "searchText": "promotional hoodie, corporate hoodie, team hoodie, college hoodie, startup hoodie, event hoodie,hoodie, hooded sweatshirt, pullover hoodie, zip-up hoodie, hooded jacket, fleece hoodie, cotton hoodie, oversized hoodie, streetwear hoodie, casual hoodie, winter hoodie,  lightweight hoodie, athletic hoodie, gym hoodie, unisex hoodie, mens hoodie, womens hoodie, custom hoodie, printed hoodie, embroidered hoodie, logo hoodie, branded hoodie",
+          "price": "599",
+          "startingFrom": false,
+          "badge": "Popular",
+          "images": [
+            "/resource/catalog_image/UBWH006_1.jpg"
+          ],
+          "description": [
+            "Color -Black",
+            "Material -Organic Cotton",
+            "Soft & skin-friendly",
+            "Very breathable",
+            "Gender -Men/Women",
+            "Neck Type - Collar",
+            "Pattern - Printed"
+          ]
+        },
+        {
+          "id": "UBWH007",
+          "name": "Premium Fleece Hoodie",
+          "originalPrice": "999",
+          "searchText": "promotional hoodie, corporate hoodie, team hoodie, college hoodie, startup hoodie, event hoodie,hoodie, hooded sweatshirt, pullover hoodie, zip-up hoodie, hooded jacket, fleece hoodie, cotton hoodie, oversized hoodie, streetwear hoodie, casual hoodie, winter hoodie,  lightweight hoodie, athletic hoodie, gym hoodie, unisex hoodie, mens hoodie, womens hoodie, custom hoodie, printed hoodie, embroidered hoodie, logo hoodie, branded hoodie",
+          "price": "799",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWH007_1.png",
+            "/resource/catalog_image/UBWH007_2.png",
+            "/resource/catalog_image/UBWH007_3.png"
+          ],
+          "description": [
+            "Fabric GSM -320 gsm",
+            "Fabric - Cotton",
+            "Premium long-staple cotton",
+            "Excellent insulation",
+            "Fabric Composition - Cotton Fleece",
+            "Gender - Men/Women",
+            "Fit Type - Regular Fit",
+            "Sleeves Type - Full Sleeves",
+            "Size - All sizes"
+          ]
+        },
+        {
+          "id": "UNWC004",
+          "name": "Classic Promo Cap",
+          "image": "/resource/catalog_image/UBWH001.png",
+          "originalPrice": "139",
+          "price": "69",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNWC004_1.jpg",
+            "/resource/catalog_image/UNWC004_2.png"
+          ],
+          "description": [
+            "Lightweight & comfortable fabric",
+            "Soft, unstructured crown for casual style",
+            "Ideal for promotions, events & casual branding",
+            "Supports logo printing & embroidery"
+          ]
+        },
+        {
+          "id": "UNWC003",
+          "name": "Premium Cap",
+          "searchText": "printed cap, embroidered cap, logo cap, branded cap, promotional cap, corporate cap, team cap, event cap,cap, hat, headwear, head cap, baseball cap, snapback cap, trucker cap, fitted cap, cotton cap, denim cap, sports cap, running cap, gym cap, casual cap, summer cap, visor cap",
+          "image": "/resource/catalog_image/UNWC003.jpg",
+          "originalPrice": "129",
+          "price": "199",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNWC003_1.jpg",
+            "/resource/catalog_image/UNWC003_2.png"
+          ],
+          "description": [
+            "Premium quality fabric (durable & breathable)",
+            "High-definition logo embroidery/printing available",
+            "Structured crown for a sharp, professional look",
+            "Ideal for corporate gifting, events & outdoor branding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drinkware",
+      "name": "Drinkware",
+      "description": "Stay hydrated in style with our customizable bottles and mugs",
+      "items": [
+        {
+          "id": "UBWB002",
+          "name": "SteelWave",
+          "image": "/resource/catalog_image/UBWB002.png",
+          "images": ["/resource/catalog_image/UBWB002_1.png","/resource/catalog_image/UBWB002_2.png"],
+          "originalPrice": "199",
+          "price": "149",
+          "startingFrom": false,
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "description": [
+            "Stainless Steel Body",
+            "750 ml Capacity",
+            "Customisable Design",
+            "Perfect for Office, School, Travel & Sports"
+          ]
+        },
+        {
+          "id": "UBWB001",
+          "name": "AlumiFlow",
+          "image": "/resource/catalog_image/UBWB001_1.PNG",
+          "originalPrice": "299",
+          "price": "219",
+          "startingFrom": false,
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "badge": "",
+          "images": [
+            "/resource/catalog_image/UBWB001_1.PNG",
+            "/resource/catalog_image/UBWB001_2.png"
+          ],
+          "description": [
+            "Premium Aluminium Body",
+            "750 ml Capacity",
+            "Customisable Design",
+            "Durable & Long-Lasting Build Quality",
+            "Easy to Carry - Cap with Hook",
+            "Perfect for Office, Travel & Sports"
+          ]
+        },
+        {
+          "id": "UBWB004",
+          "name": "ThermoSense",
+          "image": "/resource/download.jfif",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "399",
+          "price": "279",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB004_1.png",
+            "/resource/catalog_image/UBWB004_2.jpg"
+          ],
+          "description": [
+            "Waterproof LED display",
+            "HD LCD touch screen for prompt real-time water temperature",
+            "Perfect for Office, School, Travel & Sports",
+            "Vacuum insulation maintains hot beverages for up to 12 hours",
+            "High quality Stainless Steel Body",
+            "500 ml Capacity",
+            "Customisable Design"
+          ]
+        },
+        {
+          "id": "UBWB006",
+          "name": "BambooTherm",
+          "image": "/resource/catalog_image/UBWB006.jpg",
+          "originalPrice": "499",
+          "price": "339",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB006_1.png"
+          ],
+          "description": [
+            "Crafted from premium bamboo",
+            "450 ml Capacity",
+            "Perfect for Office, School, Travel & Sports",
+            "Customisable Design",
+            "Leak Proof Lid",
+            "Vacuum insulation maintains hot/cold beverages for up to 12 hours",
+            "Eco-Conscious Hydration"
+          ]
+        },
+        {
+          "id": "UBWB007",
+          "name": "MaxInsulate",
+          "image": "/resource/welcomekit1.avif",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "699",
+          "price": "419",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB007_1.png",
+            "/resource/catalog_image/UBWB007_2.jpg"
+          ],
+          "description": [
+            "PREMIUM DESIGN",
+            "1000 ml Capacity",
+            "Premium Build Quality",
+            "Customisable Design",
+            "Perfect for Office, School, Travel & Sports",
+            "Leak Proof Lid",
+            "Vacuum insulation maintains hot/cold beverages for up to 12 hours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bags",
+      "name": "Bags & Accessories",
+      "description": "Practical and stylish bags for everyday use and travel",
+      "items": [
+        {
+          "id": "UBBG001",
+          "name": "Laptop Bag",
+          "originalPrice": "1099",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "price": "799",
+          "startingFrom": true,
+          "badge": "Premium",
+          "images": [
+            "/resource/catalog_image/UBBG001_1.png",
+            "/resource/catalog_image/UBBG001_2.png"
+          ],
+          "description": [
+            "Durable Waterproof Polyester Material",
+            "Black colour",
+            "Capacity: 27L (supports up to 10kg load)",
+            "2 main compartments + 2 side pockets",
+            "Premium metal zipper pulls & sturdy build",
+            "Ideal For Office, travel, college & daily use"
+          ]
+        },
+        {
+          "id": "UBBG003",
+          "name": "Corporate Backpack",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "799",
+          "price": "439",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBBG003_1.png",
+            "/resource/catalog_image/UBBG003_2.png"
+          ],
+          "description": [
+            "Durable Waterproof Polyester Material",
+            "Custom colour options",
+            "Premium metal zipper pulls & sturdy build",
+            "Ideal For Office, travel, college & daily use"
+          ]
+        },
+        {
+          "id": "UBLB001",
+          "name": "Clasic Laptop Side Bag",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "599",
+          "price": "249",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBLB001_1.png",
+            "/resource/catalog_image/UBLB001_2.png",
+            "/resource/catalog_image/UBLB001_3.png",
+            "/resource/catalog_image/UBLB001_4.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Type Of Hand Bags - Side Bag",
+            "Dimension - HxWxD 9x12x4 in Inches",
+            "Handle - Short Double Handle with One Large Adjustable Handle",
+            "Color - Multi Color Option in This Article"
+          ]
+        },
+        {
+          "id": "UBLB002",
+          "name": "Laptop Side Bag",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "699",
+          "price": "349",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBLB002_1.png",
+            "/resource/catalog_image/UBLB002_2.png",
+            "/resource/catalog_image/UBLB002_3.png",
+            "/resource/catalog_image/UBLB002_4.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Durable, water-resistant fabric",
+            "multiple compartments for storing chargers,mouse, pens, documents",
+            "Laptop Size -15.6 Inch",
+            "Usage/Application - Corporate Gifting",
+            "Custom logo printing",
+            "Color - Black",
+            "Closure Type - Zipper",
+            "Waterproof - Yes"
+          ]
+        },
+        {
+          "id": "UBLB003",
+          "name": "Laptop Side Bag",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "799",
+          "price": "399",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBLB003_1.png",
+            "/resource/catalog_image/UBLB003_2.png",
+            "/resource/catalog_image/UBLB003_3.png",
+            "/resource/catalog_image/UBLB003_4.png"
+          ],
+          "description": [
+            "Material - Leather",
+            "Premium Laptop Bag",
+            "Type Of Hand Bags - Hand Handled",
+            "Color - Black",
+            "Usage/Application - Corporate Gifting/ Office",
+            "Strap Type - Adjustable"
+          ]
+        },
+        {
+          "id": "UBLB004",
+          "name": "Laptop Side Bag",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "999",
+          "price": "439",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBLB004_1.png"
+          ],
+          "description": [
+            "Material - Italian Leather",
+            "Usage/Application - Corporate Gifting",
+            "multiple compartments for storing chargers,mouse, pens, documents",
+            "Design/Pattern - Plain",
+            "Water Proof"
+          ]
+        },
+        {
+          "id": "UBSG001",
+          "name": "PolySling Drawstring Bag",
+          "searchText": "drawstring sling bag, polyester bag, rope handle bag, custom logo bag",
+          "originalPrice": "228",
+          "price": "99",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBSG001.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Capacity - 10kg",
+            "Product Type - Drawstring bag",
+            "Style - Rope Handle",
+            "Size/Dimension - 46 Cm * 32 Cm",
+            "Customised"
+          ]
+        },
+        {
+          "id": "UBSG002",
+          "name": "Canvas Urban Side Bag",
+          "searchText": "canvas side bag, logo printed bag, sling bag, adjustable strap",
+          "originalPrice": "318",
+          "price": "189",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBSG002.png"
+          ],
+          "description": [
+            "Material - Canvas",
+            "Pattern Type - Logo Printed",
+            "Color - Black",
+            "Product Type - Sling Bag",
+            "Strap - Adjustable"
+          ]
+        },
+        {
+          "id": "UBSG003",
+          "name": "PolyFlex Crossbody Bag",
+          "searchText": "crossbody sling bag, polyester bag, unisex sling bag, tablet compatible bag",
+          "originalPrice": "328",
+          "price": "199",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBSG003_1.png",
+            "/resource/catalog_image/UBSG003_2.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Compatible Device Size - Up to 10 inch Tablet",
+            "Style - Crossbody Bag",
+            "Features - Water-Resistant",
+            "Gender - Unisex",
+            "Closure Type - Zipper",
+            "Number of Main Compartments - 2",
+            "Customization Options - Logo Printing, Custom Color, Custom Tag / Label"
+          ]
+        },
+        {
+          "id": "UBSG004",
+          "name": "PrintEdge Sling Bag",
+          "searchText": "printed polyester sling bag, side bag, adjustable strap bag",
+          "images": [
+            "/resource/catalog_image/UBSG004_1.png",
+            "/resource/catalog_image/UBSG004_2.png"
+          ],
+          "originalPrice": "378",
+          "price": "249",
+          "startingFrom": false,
+          "description": [
+            "Material - Polyester",
+            "Pattern - Printed",
+            "Type Of Hand Bags - Sling Bag",
+            "Strap Type - Adjustable"
+          ]
+        },
+        {
+          "id": "UBSG005",
+          "name": "Premium PU Leather Sling",
+          "searchText": "PU leather sling bag, premium side bag, brown stylish sling",
+          "originalPrice": "508",
+          "price": "379",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBSG005_1.png",
+            "/resource/catalog_image/UBSG005_2.png"
+          ],
+          "description": [
+            "Material - Pu Leather",
+            "Gender - Unisex",
+            "Type Of Hand Bags - Sling Bag",
+            "Color - Brown",
+            "Size - 10x03x11 Inches",
+            "Strap Type - Adjustable"
+          ]
+        },
+        {
+          "id": "UBGB001",
+          "name": "PolyFit Gym Duffle Bag",
+          "searchText": "gym bag, duffle bag, polyester gym bag, promotional sports bag",
+          "originalPrice": "328",
+          "price": "199",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBGB001_1.png",
+            "/resource/catalog_image/UBGB001_2.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Product Type - Promotional Gym Bag",
+            "Color - Yellow, Black, Red, Navy, Orange",
+            "Size/Dimension - 17*9*9",
+            "Number Of Partition - 1",
+            "Weight - 300 Gram"
+          ]
+        },
+        {
+          "id": "UBGB002",
+          "name": "SportX Polyester Gym Bag",
+          "searchText": "sports gym bag, polyester duffle bag, zipper gym bag",
+          "originalPrice": "349",
+          "price": "220",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBGB002_1.png",
+            "/resource/catalog_image/UBGB002_2.png",
+            "/resource/catalog_image/UBGB002_3.png"
+          ],
+          "description": [
+            "Size/Dimension - 16x9x9 Inch",
+            "Color - Black",
+            "Usage/Application - Gym",
+            "Material - Polyester",
+            "Closure Type - Zipper",
+            "Wash Care - Handwash"
+          ]
+        },
+        {
+          "id": "UBGB003",
+          "name": "Classic Gym Duffle",
+          "searchText": "gym duffle bag, promotional gym bag, polyester shoulder bag",
+          "originalPrice": "369",
+          "price": "240",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBGB003_1.png",
+            "/resource/catalog_image/UBGB003_2.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Brand - Promotional",
+            "Capacity - 10kg",
+            "Color - Black"
+          ]
+        },
+        {
+          "id": "UBGB004",
+          "name": "MaxGear Gym Kit Bag",
+          "searchText": "custom printed gym bag, polyester duffle, sports bag with logo",
+          "originalPrice": "528",
+          "price": "399",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBGB004_1.png",
+            "/resource/catalog_image/UBGB004_2.png",
+            "/resource/catalog_image/UBGB004_3.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Product Type - Customize Gym Bag with Gym Logo",
+            "Color - Black",
+            "Capacity - 10kg"
+          ]
+        },
+        {
+          "id": "UBGB005",
+          "name": "FlexPro Training Bag",
+          "searchText": "duffel gym bag, polyester gym bag, travel sports bag",
+          "originalPrice": "508",
+          "price": "379",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBGB005_1.png",
+            "/resource/catalog_image/UBGB005_2.png"
+          ],
+          "description": [
+            "Material - Polyester",
+            "Product Type - Gym Bags / Duffel Bags",
+            "Color - Any",
+            "Capacity - 5kg",
+            "Style - Shoulder"
+          ]
+        },
+                {
+          "id": "UNMG102",
+          "name": "Laptop Sleeve",
+          "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "299",
+          "price": "169",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNMG102_1.png",
+            "/resource/catalog_image/UNMG102_2.png"
+          ],
+          "description": [
+            "Fits 15.6-inch laptops",
+            "Premium durable fabric",
+            "Scratch & shock protection",
+            "Lightweight and travel-friendly",
+            "Shields from dust and daily wear"
+          ]
+        },
+        {
+          "id": "UNMG103",
+          "name": "Premium Laptop Sleeve",
+          "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "299",
+          "price": "169",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNMG103_1.png",
+            "/resource/catalog_image/UNMG103_2.jppngg"
+          ],
+          "description": [
+            "Fits 15.6-inch laptops",
+            "Premium durable fabric",
+            "Scratch & shock protection",
+            "Lightweight and travel-friendly",
+            "Shields from dust and daily wear"
+          ]
+        },
+        {
+          "id": "UNMG071",
+          "name": "Jute Bag",
+          "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "149",
+          "price": "99",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNMG071_1.png",
+            "/resource/catalog_image/UNMG071_2.png"
+          ],
+          "description": [
+            "Material: 13×13 Quality Jute",
+            "Size: 12 x 14 x 4.5 inches",
+            "100% eco-friendly & reusable"
+          ]
+        },
+        {
+          "id": "UNMG072",
+          "name": "Jute Bag",
+          "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
+          "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
+          "originalPrice": "169",
+          "price": "129",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UNMG072_1.png",
+            "/resource/catalog_image/UNMG072_2.png"
+          ],
+          "description": [
+            "Material: Premium 13×13 Quality Jute",
+            "Size: 12 x 14 x 4.5 inches",
+            "100% eco-friendly & reusable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech Accessories",
+      "description": "Modern tech accessories for the digital workplace",
+      "items": [
+        {
+          "id": "UNMG016",
+          "name": "Customised Pen Drive",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "699",
+          "price": "429",
+          "startingFrom": true,
+          "description": [
+            "Fast Read & Write Speed",
+            "Durable Build",
+            "Customizable Design",
+            "Premium Detailing Customization"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG016_2.jpg",
+            "/resource/catalog_image/UNMG016_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG029",
+          "name": "Mouse Pad",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "99",
+          "price": "69",
+          "startingFrom": true,
+          "description": [
+            "Non-Slip Rubber Base",
+            "Customizable Options",
+            "Smooth & Precise Surface",
+            "Durable & Long-Lasting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG029_2.jpg",
+            "/resource/catalog_image/UNMG029_1.jpg",
+            "/resource/catalog_image/UNMG029_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG032",
+          "name": "Desk Mat",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "229",
+          "price": "139",
+          "startingFrom": false,
+          "description": [
+            "Premium Workspace Coverage",
+            "Water-Resistant & Easy to Clean",
+            "Custom Sizes & Prints Available",
+            "Non-Slip Base"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG032_1.jpg",
+            "/resource/catalog_image/UNMG032_2.jpg",
+            "/resource/catalog_image/UNMG032_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG040",
+          "name": "Mobile Stand",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "299",
+          "price": "59",
+          "startingFrom": true,
+          "description": [
+            "Universal Compatibility",
+            "Compact & Portable",
+            "Scratch-Free Support",
+            "Customization Available",
+            "Durable Build Quality"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG040_2.jpg",
+            "/resource/catalog_image/UNMG040_3.jpg",
+            "/resource/catalog_image/UNMG040_4.jpg",
+            "/resource/catalog_image/UNMG040_5.jpg",
+            "/resource/catalog_image/UNMG040_1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stationery",
+      "name": "Stationery",
+      "description": "Essential office supplies and writing instruments with custom branding",
+      "items": [
+        {
+          "id": "UBP001",
+          "name": "Customised Pen",
+          "originalPrice": "15",
+          "price": "8",
+          "startingFrom": true,
+          "searchText": "Pen,promotional pen, corporate pen, gift pen, customized pen, engraved pen, logo printed pen,ball pen, ballpoint pen, gel pen, roller pen",
+          "description": [
+            "Personalized Branding",
+            "Smooth Writing Experience",
+            "Comfortable Grip"
+          ],
+          "images": [
+            "/resource/catalog_image/UBP001_1.png"
+          ]
+        },
+        {
+          "id": "UBP002",
+          "name": "Premium Customised Pen",
+          "originalPrice": "29",
+          "price": "19",
+          "startingFrom": true,
+          "searchText": "Pen,promotional pen, corporate pen, gift pen, customized pen, engraved pen, logo printed pen,ball pen, ballpoint pen, gel pen, roller pen",
+          "description": [
+            "Premium Luxury Finish",
+            "Perfect Corporate Gift",
+            "Ergonomic & Stylish Design"
+          ],
+          "images": [
+            "/resource/catalog_image/UBP002_1.png"
+          ]
+        },
+        {
+          "id": "UNMG058",
+          "name": "Highlighter",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "40",
+          "price": "30",
+          "startingFrom": false,
+          "searchText": "Pen,promotional pen, corporate pen, gift pen, customized pen, engraved pen, logo printed pen,ball pen, ballpoint pen, gel pen, roller pen",
+          "description": [
+            "Bright & Vibrant Colors",
+            "Smooth Ink Flow",
+            "Long-Lasting Ink"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG058.jpg"
+          ]
+        },
+        {
+          "id": "UBNP001",
+          "name": "Customised NotePad",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "corporate notepad, branded notepad, custom notepad, printed notepad, logo notepad, promotional notepad,notepad, notebook, memo pad, writing pad, scratch pad, note pad, journal, diary, sketch pad, spiral notebook, spiral pad, legal pad, stenographer pad, planner pad, desk pad, office pad, pocket notepad, mini notebook, hardbound notebook, softbound notebook, ruled notepad, unruled notepad, grid notepad, dotted notepad, journal notebook, meeting pad, office notebook, project notebook, study notebook",
+          "originalPrice": "99",
+          "price": "59",
+          "startingFrom": true,
+          "description": [
+            "Personalized Cover Design",
+            "High-Quality Paper",
+            "Multiple Size Options"
+          ],
+          "images": [
+            "/resource/catalog_image/UBNP001.jpg"
+          ]
+        },
+        {
+          "id": "UBNP007",
+          "name": "Standard Customised NotePad",
+          "originalPrice": "149",
+          "price": "99",
+          "startingFrom": false,
+          "searchText": "corporate notepad, branded notepad, custom notepad, printed notepad, logo notepad, promotional notepad,notepad, notebook, memo pad, writing pad, scratch pad, note pad, journal, diary, sketch pad, spiral notebook, spiral pad, legal pad, stenographer pad, planner pad, desk pad, office pad, pocket notepad, mini notebook, hardbound notebook, softbound notebook, ruled notepad, unruled notepad, grid notepad, dotted notepad, journal notebook, meeting pad, office notebook, project notebook, study notebook",
+          "description": [
+            "Size - B6",
+            "Product Dimensions - 6 x 4 inch",
+            "Colour Options - Blue, Red, Kraft",
+            "Comes with Eco-Friendly Pen",
+            "5 Color Sticky Pointers – 25 sheets each for quick "
+          ],
+          "images": [
+            "/resource/catalog_image/UBNP007_1.PNG",
+            "/resource/catalog_image/UBNP007_2.PNG",
+            "/resource/catalog_image/UBNP007_3.PNG"
+          ]
+        },
+        {
+          "id": "UBNP004",
+          "name": "Premium Customised NotePad",
+          "image": "/resource/catalog_image/UBP004.PNG",
+          "originalPrice": "239",
+          "price": "149",
+          "startingFrom": true,
+          "searchText": "corporate notepad, branded notepad, custom notepad, printed notepad, logo notepad, promotional notepad,notepad, notebook, memo pad, writing pad, scratch pad, note pad, journal, diary, sketch pad, spiral notebook, spiral pad, legal pad, stenographer pad, planner pad, desk pad, office pad, pocket notepad, mini notebook, hardbound notebook, softbound notebook, ruled notepad, unruled notepad, grid notepad, dotted notepad, journal notebook, meeting pad, office notebook, project notebook, study notebook",
+          "description": [
+            "Premium Quality Finish",
+            "Superior Paper Quality",
+            "Professional Look & Feel"
+          ],
+          "images": [
+            "/resource/catalog_image/UBP004.PNG"
+          ]
+        },
+        {
+          "id": "UBNP006",
+          "name": "Customised Stickey NotePad",
+          "originalPrice": "239",
+          "price": "170",
+          "startingFrom": false,
+          "searchText": "corporate notepad, branded notepad, custom notepad, printed notepad, logo notepad, promotional notepad,notepad, notebook, memo pad, writing pad, scratch pad, note pad, journal, diary, sketch pad, spiral notebook, spiral pad, legal pad, stenographer pad, planner pad, desk pad, office pad, pocket notepad, mini notebook, hardbound notebook, softbound notebook, ruled notepad, unruled notepad, grid notepad, dotted notepad, journal notebook, meeting pad, office notebook, project notebook, study notebook",
+          "description": [
+            "Premium Quality Finish",
+            "Superior Paper Quality",
+            "Professional Look & Feel"
+          ],
+          "images": [
+            "/resource/catalog_image/UBNP006_1.PNG",
+            "/resource/catalog_image/UBNP006_2.PNG",
+            "/resource/catalog_image/UBNP006_3.PNG"
+          ]
+        },
+        {
+          "id": "UBDY001",
+          "name": "Leather Cover Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "originalPrice": "149",
+          "price": "89",
+          "startingFrom": false,
+          "description": [
+            "A6 Compact Size",
+            "PU Leather Hard Cover",
+            "Elastic Closure",
+            "192 Pages"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY001.PNG",
+            "/resource/catalog_image/UBDY001_2.PNG"
+          ]
+        },
+        {
+          "id": "UBDY002",
+          "name": "Leather Cover Diary",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "149",
+          "price": "99",
+          "startingFrom": true,
+          "description": [
+            "A5 Size",
+            "Attractive Glossy Cover",
+            "192 Pages"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY002_1.PNG"
+          ]
+        },
+        {
+          "id": "UBDY006",
+          "name": "Executive Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "originalPrice": "199",
+          "price": "149",
+          "startingFrom": true,
+          "description": [
+            "A5 Size",
+            "Premium Look & Feel",
+            "120 GSM Paper"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY006_1.PNG",
+            "/resource/catalog_image/UBDY006_2.PNG",
+            "/resource/catalog_image/UBDY006_3.PNG"
+          ]
+        },
+        {
+          "id": "UBDY003",
+          "name": "Fabric Cover Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "299",
+          "price": "239",
+          "startingFrom": true,
+          "description": [
+            "A5 Size",
+            "Handcrafted front cover",
+            "Customized Design"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY003_1.PNG",
+            "/resource/catalog_image/UBDY003_2.PNG"
+          ]
+        },
+        {
+          "id": "UBDY004",
+          "name": "Premium New Year Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "originalPrice": "319",
+          "price": "249",
+          "startingFrom": true,
+          "description": [
+            "A5 Size",
+            "Royal Black Look",
+            "PU Leather Cover",
+            "Customized Design"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY004_1.PNG",
+            "/resource/catalog_image/UBDY004_2.PNG"
+          ]
+        },
+        {
+          "id": "UBDY005",
+          "name": "Premium Elite New Year Diary",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
+          "originalPrice": "399",
+          "price": "269",
+          "startingFrom": false,
+          "description": [
+            "A5 Size",
+            "Royal Black Look",
+            "PU Leather Cover",
+            "Customized Design"
+          ],
+          "images": [
+            "/resource/catalog_image/UBDY005_1.PNG"
+          ]
+        },
+        {
+          "id": "UNMG090",
+          "name": "Pen Stand",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "129",
+          "price": "79",
+          "startingFrom": true,
+          "description": [
+            "Elegant Display Piece",
+            "Multiple Size Options",
+            "Lightweight & Portable"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG090_1.jpg",
+            "/resource/catalog_image/UNMG090_2.jpg",
+            "/resource/catalog_image/UNMG090_3.jpg",
+            "/resource/catalog_image/UNMG090_4.jpg",
+            "/resource/catalog_image/UNMG090_5.jpg"
+          ]
+        },
+        {
+          "id": "UNMG050",
+          "name": "Paper Desk Calender",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "199",
+          "price": "129",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Paper",
+            "Perfect for Office & Home Use",
+            "Sturdy Stand Base",
+            "Custom Branding Available"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG050_2.jpg",
+            "/resource/catalog_image/UNMG050_4.jpg",
+            "/resource/catalog_image/UNMG050_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG053",
+          "name": "Executive Desk Calendar",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "399",
+          "price": "219",
+          "startingFrom": true,
+          "description": [
+            "Premium Hard Material Build",
+            "Integrated Watch and Pen Holder",
+            "Custom Branding Options",
+            "Ideal for Office, Home, or Gifting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG053_2.jpg",
+            "/resource/catalog_image/UNMG053_1.jpg",
+            "/resource/catalog_image/UNMG053_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG108",
+          "name": "Business Visiting Card",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "6",
+          "price": "3",
+          "startingFrom": true,
+          "description": [
+            "Premium Quality Card Material",
+            "Matte / Gloss / PVC Finish Options",
+            "Long-Lasting Print Quality"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG108.PNG"
+          ]
+        },
+        {
+          "id": "UNMG011",
+          "name": "Stickers",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "5",
+          "price": "3",
+          "startingFrom": true,
+          "description": [
+            "Customizable Designs",
+            "Glossy or Matte Finish",
+            "Strong Adhesive",
+            "High-Quality Print"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG011_7.jpg",
+            "/resource/catalog_image/UNMG011_4.jpg",
+            "/resource/catalog_image/UNMG011_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG107",
+          "name": "Paper Envelop",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "6",
+          "price": "4",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Paper Material",
+            "Customizable Option Available",
+            "Lightweight & Easy to Handle"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG107.PNG"
+          ]
+        },
+        {
+          "id": "UNMG109",
+          "name": "Corporate ID Cards",
+          "image": "/resource/catalog_image/UNMG109.PNG",
+          "originalPrice": "49",
+          "price": "19",
+          "startingFrom": true,
+          "description": [
+            "High-Resolution Printing",
+            "Durable PVC Material",
+            "Long-Lasting Print Quality",
+            "Customizable Layouts"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG109.PNG"
+          ]
+        },
+        {
+          "id": "UNMG110",
+          "name": "ID Cards Pin",
+          "image": "/resource/catalog_image/UNMG110.PNG",
+          "originalPrice": "49",
+          "price": "29",
+          "startingFrom": true,
+          "description": [
+            "Available in plastic, metal, or stainless steel",
+            "smooth extension and retraction",
+            "Customizable Supported"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG110.PNG"
+          ]
+        },
+        {
+          "id": "UNMG111",
+          "name": "ID Card Lanyard",
+          "image": "/resource/catalog_image/UNMG111.PNG",
+          "originalPrice": "49",
+          "price": "29",
+          "startingFrom": true,
+          "description": [
+            "Glossy Smooth Finish",
+            "12mm width 90cm length",
+            "Customizable Supported"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG111.PNG"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "miscellaneous",
+      "name": "Miscellaneous",
+      "description": "Other useful items for corporate gifting and branding",
+      "items": [
+        {
+          "id": "UNMG001",
+          "name": "Personalized Mug",
+          "image": "/resource/catalog_image/UNMG001.jpg",
+          "originalPrice": "149",
+          "price": "79",
+          "startingFrom": true,
+          "description": [
+            "Premium ceramic personalized mug",
+            "Vibrant long-lasting print",
+            "Smooth glossy finish",
+            "Microwave and dishwasher safe"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG001.jpg",
+            "/resource/catalog_image/UNMG001_2.jpg"
+          ]
+        },
+        {
+          "id": "UNMG006",
+          "name": "Customised Fabric Keychains",
+          "image": "/resource/catalog_image/UNMG006_1.jpg",
+          "originalPrice": "49",
+          "price": "19",
+          "startingFrom": false,
+          "description": [
+            "Durable and Long-lasting",
+            "Customizable as per name and logo",
+            "Premium Comfort"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG006_1.jpg",
+            "/resource/catalog_image/UNMG006_2.jpg",
+            "/resource/catalog_image/UNMG006_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG008",
+          "name": "Customised Metalic Keychains",
+          "image": "/resource/catalog_image/UNMG008_1.PNG",
+          "originalPrice": "149",
+          "price": "99",
+          "startingFrom": false,
+          "description": [
+            "Customizable",
+            "Rust & Scratch Resistant",
+            "Elegant & Sleek Design"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG008_1.png",
+            "/resource/catalog_image/UNMG008_2.png"
+          ]
+        },
+        {
+          "id": "UBBD001",
+          "name": "Promotional Badges",
+          "image": "/resource/catalog_image/UNMG008_1.PNG",
+          "originalPrice": "29",
+          "price": "16",
+          "startingFrom": true,
+          "description": [
+            "Customizable Design",
+            "Sharp Detailing",
+            "Rust & Scratch Resistant",
+            "Elegant & Sleek Design",
+            "Lightweight & Comfortable"
+          ],
+          "images": [
+            "/resource/catalog_image/UBBD001_2.jpg",
+            "/resource/catalog_image/UBBD001_1.jpg",
+            "/resource/catalog_image/UBBD001.jpg"
+          ]
+        },
+        {
+          "id": "UNMG011",
+          "name": "Stickers",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "5",
+          "price": "3",
+          "startingFrom": true,
+          "description": [
+            "Customizable Designs",
+            "Glossy or Matte Finish",
+            "Strong Adhesive",
+            "High-Quality Print"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG011_7.jpg",
+            "/resource/catalog_image/UNMG011_4.jpg",
+            "/resource/catalog_image/UNMG011_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG016",
+          "name": "Customised Pen Drive",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "699",
+          "price": "429",
+          "startingFrom": true,
+          "description": [
+            "Fast Read & Write Speed",
+            "Durable Build",
+            "Customizable Design",
+            "Premium Detailing Customization"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG016_2.jpg",
+            "/resource/catalog_image/UNMG016_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG020",
+          "name": "Motivational Cards",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "59",
+          "price": "30",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Print",
+            "Attractive Designs",
+            "Customizable Design",
+            "Durable & Long-Lasting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG020_2.jpg",
+            "/resource/catalog_image/UNMG020.jpg",
+            "/resource/catalog_image/UNMG020_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG024",
+          "name": "Wrist band",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "29",
+          "price": "11",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Print",
+            "Attractive Designs",
+            "Customizable Design",
+            "Durable & Long-Lasting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG024_2.jpg",
+            "/resource/catalog_image/UNMG024_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG029",
+          "name": "Mouse Pad",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "99",
+          "price": "69",
+          "startingFrom": true,
+          "description": [
+            "Non-Slip Rubber Base",
+            "Customizable Options",
+            "Smooth & Precise Surface",
+            "Durable & Long-Lasting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG029_2.jpg",
+            "/resource/catalog_image/UNMG029_1.jpg",
+            "/resource/catalog_image/UNMG029_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG032",
+          "name": "Desk Mat",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "229",
+          "price": "139",
+          "startingFrom": false,
+          "description": [
+            "Premium Workspace Coverage",
+            "Water-Resistant & Easy to Clean",
+            "Custom Sizes & Prints Available",
+            "Non-Slip Base"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG032_1.jpg",
+            "/resource/catalog_image/UNMG032_2.jpg",
+            "/resource/catalog_image/UNMG032_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG040",
+          "name": "Mobile Stand",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "299",
+          "price": "59",
+          "startingFrom": true,
+          "description": [
+            "Universal Compatibility",
+            "Compact & Portable",
+            "Scratch-Free Support",
+            "Customization Available",
+            "Durable Build Quality"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG040_2.jpg",
+            "/resource/catalog_image/UNMG040_3.jpg",
+            "/resource/catalog_image/UNMG040_4.jpg",
+            "/resource/catalog_image/UNMG040_5.jpg",
+            "/resource/catalog_image/UNMG040_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG046",
+          "name": "Wall Calender",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "49",
+          "price": "19",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Print",
+            "Sturdy Paper Material",
+            "Fade-Resistant Colors",
+            "Easy Hanging Design",
+            "Durable Build Quality"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG046_2.jpg",
+            "/resource/catalog_image/UNMG046_3.jpg",
+            "/resource/catalog_image/UNMG046_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG050",
+          "name": "Paper Desk Calender",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "199",
+          "price": "129",
+          "startingFrom": true,
+          "description": [
+            "High-Quality Paper",
+            "Perfect for Office & Home Use",
+            "Sturdy Stand Base",
+            "Custom Branding Available"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG050_2.jpg",
+            "/resource/catalog_image/UNMG050_4.jpg",
+            "/resource/catalog_image/UNMG050_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG053",
+          "name": "Executive Desk Calendar",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "399",
+          "price": "219",
+          "startingFrom": true,
+          "description": [
+            "Premium Hard Material Build",
+            "Integrated Pen Holder",
+            "Custom Branding Options",
+            "Ideal for Office, Home, or Gifting"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG053_2.jpg",
+            "/resource/catalog_image/UNMG053_1.jpg",
+            "/resource/catalog_image/UNMG053_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG087",
+          "name": "Photo Frame",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "239",
+          "price": "169",
+          "startingFrom": true,
+          "description": [
+            "Elegant Display Piece",
+            "Easy Photo Insertion",
+            "Multiple Size Options",
+            "Lightweight & Portable"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG087_1.jpg",
+            "/resource/catalog_image/UNMG087_2.jpg",
+            "/resource/catalog_image/UNMG087_3.jpg"
+          ]
+        },
+        {
+          "id": "UNMG090",
+          "name": "Pen Stand",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "129",
+          "price": "79",
+          "startingFrom": true,
+          "description": [
+            "Elegant Display Piece",
+            "Easy Photo Insertion",
+            "Multiple Size Options",
+            "Lightweight & Portable"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG090_1.jpg",
+            "/resource/catalog_image/UNMG090_2.jpg",
+            "/resource/catalog_image/UNMG090_3.jpg",
+            "/resource/catalog_image/UNMG090_4.jpg",
+            "/resource/catalog_image/UNMG090_5.jpg"
+          ]
+        },
+        {
+          "id": "UNMG096",
+          "name": "Troffee",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "199",
+          "price": "111",
+          "startingFrom": true,
+          "description": [
+            "Premium Build Quality",
+            "Multiple Size Options",
+            "Long-Lasting Appea",
+            "Clear & Polished Shine"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG096_2.jpg",
+            "/resource/catalog_image/UNMG096_3.jpg",
+            "/resource/catalog_image/UNMG096_1.jpg"
+          ]
+        },
+        {
+          "id": "UNMG100",
+          "name": "Medals",
+          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "originalPrice": "499",
+          "price": "339",
+          "startingFrom": false,
+          "description": [
+            "Premium Build Quality",
+            "Multiple Size Options",
+            "Clear & Polished Shine"
+          ],
+          "images": [
+            "/resource/catalog_image/UNMG100.jpg"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "💡 <strong>Bulk Orders Welcome:</strong> Contact us for special pricing on bulk orders. All items can be customized with your company logo and branding."
+}

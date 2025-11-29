@@ -1,0 +1,23 @@
+{
+  "heading": "What Makes Us Special",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gift",
+      "title": "Curated Experiences",
+      "description": "Every package is thoughtfully designed to create memorable unboxing moments"
+    },
+    {
+      "id": 2,
+      "icon": "checkCircle",
+      "title": "Quality Assured",
+      "description": "Premium products and reliable service you can trust for every occasion"
+    },
+    {
+      "id": 3,
+      "icon": "heart",
+      "title": "Personal Touch",
+      "description": "Customized solutions that make every recipient feel truly valued"
+    }
+  ]
+}

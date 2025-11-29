@@ -1,0 +1,34 @@
+{
+  "whatsapp": {
+    "number": "+91 96309 88265",
+    "link": "https://wa.me/919630988265"
+  },
+  "email": {
+    "value": "contact@unboxparadise.com",
+    "link": "mailto:contact@unboxparadise.com"
+  },
+  "socialMedia": {
+    "label": "Follow Us",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "Instagram",
+        "url": "https://instagram.com/unboxparadise",
+        "icon": "instagram"
+      },
+      {
+        "id": 2,
+        "name": "Facebook",
+        "url": "https://facebook.com/unboxparadise",
+        "icon": "facebook"
+      },
+      {
+        "id": 3,
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/unboxparadise",
+        "icon": "linkedin"
+      }
+    ]
+  },
+  "copyright": "© 2025 Unbox Paradise. All Rights Reserved."
+}
