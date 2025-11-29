@@ -728,7 +728,7 @@
           "startingFrom": false,
           "images": [
             "/resource/catalog_image/UNMG103_1.png",
-            "/resource/catalog_image/UNMG103_2.jppngg"
+            "/resource/catalog_image/UNMG103_2.png"
           ],
           "description": [
             "Fits 15.6-inch laptops",
@@ -1607,3 +1607,4 @@
   "note": "💡 <strong>Bulk Orders Welcome:</strong> Contact us for special pricing on bulk orders. All items can be customized with your company logo and branding."
 
 }
+
