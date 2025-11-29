@@ -631,8 +631,7 @@
           "startingFrom": false,
           "images": [
             "/resource/catalog_image/UBGB002_1.png",
-            "/resource/catalog_image/UBGB002_2.png",
-            "/resource/catalog_image/UBGB002_3.png"
+            "/resource/catalog_image/UBGB002_2.png"
           ],
           "description": [
             "Size/Dimension - 16x9x9 Inch",
@@ -1606,4 +1605,5 @@
     }
   ],
   "note": "💡 <strong>Bulk Orders Welcome:</strong> Contact us for special pricing on bulk orders. All items can be customized with your company logo and branding."
+
 }
