@@ -953,7 +953,6 @@
         {
           "id": "UBNP004",
           "name": "Premium Customised NotePad",
-          "image": "/resource/catalog_image/UBP004.png",
           "originalPrice": "239",
           "price": "149",
           "startingFrom": true,
@@ -964,7 +963,7 @@
             "Professional Look & Feel"
           ],
           "images": [
-            "/resource/catalog_image/UBP004.PNG"
+            "/resource/catalog_image/UBP004_1.png"
           ]
         },
         {
