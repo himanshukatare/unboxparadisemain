@@ -4,7 +4,7 @@
     {
       "id": 1,
       "icon": "🪙",
-      "image": "/resource/bestprice.jfif",
+      "image": "/resource/competitiveprice.png",
       "title": "Competitive Pricing",
       "description": "Top quality at minimal cost - best value for your investment.",
       "color": "from-orange-500 to-orange-600"
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "icon": "🏆",
-      "image": "/resource/bestquality.webp",
+      "image": "/resource/premiumquality.png",
       "title": "Premium Quality",
       "description": "Best materials and elegant packaging guaranteed.",
       "color": "from-purple-500 to-purple-600"

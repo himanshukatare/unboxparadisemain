@@ -1,45 +1,27 @@
-import React, { useState, useEffect } from 'react';
-import QualityPriceBanner from '../component/QualityPriceBanner';
-import WhatMakesUsSpecial from '../component/WhatMakesUsSpecial';
-import OurProcess from '../component/OurProcess';
-import WhyChooseUs from '../component/WhyChooseUs';
+import React from 'react';
 
-const WhatMakesUsSpecialPage = () => {
-    const [whatMakesUsSpecialData, setWhatMakesUsSpecialData] = useState(null);
-    const [ourProcessData, setOurProcessData] = useState(null);
-    const [whyChooseUsData, setWhyChooseUsData] = useState(null);
+const WhatMakesUsSpecial = ({ data }) => {
+    if (!data) return null;
 
-    useEffect(() => {
-        // Fetch configuration for all sections
-        Promise.all([
-            fetch('/resource/config/whatmakesusspecial.json'),
-            fetch('/resource/config/ourprocess.json'),
-            fetch('/resource/config/whychooseus.json')
-        ])
-        .then(([specialRes, processRes, whyUsRes]) => 
-            Promise.all([specialRes.json(), processRes.json(), whyUsRes.json()])
-        )
-        .then(([specialData, processData, whyUsData]) => {
-            setWhatMakesUsSpecialData(specialData);
-            setOurProcessData(processData);
-            setWhyChooseUsData(whyUsData);
-        })
-        .catch(error => {
-            console.error('Error loading what makes us special data:', error);
-        });
-    }, []);
+    const { heading, features } = data;
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
-            <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
-                  style={{ background: 'rgb(19,19,24)', paddingTop: '120px', minHeight: '100vh' }}>
+        <section className="py-12">
+            <div className="max-w-6xl mx-auto px-4">
+                <h2 className="text-3xl font-bold text-white mb-8">{heading}</h2>
 
-                <QualityPriceBanner />
-                <WhatMakesUsSpecial data={whatMakesUsSpecialData} />
-                <WhyChooseUs data={whyChooseUsData} />
-            </main>
-        </div>
+                <div className="grid gap-6 md:grid-cols-3">
+                    {features && features.map((f) => (
+                        <div key={f.id} className="bg-gray-800 p-6 rounded-md">
+                            <div className="text-3xl mb-4 text-teal-400">{f.icon ? '★' : '★'}</div>
+                            <h3 className="text-xl font-semibold text-white">{f.title}</h3>
+                            <p className="mt-2 text-gray-300">{f.description}</p>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        </section>
     );
 };
 
-export default WhatMakesUsSpecialPage;
+export default WhatMakesUsSpecial;
