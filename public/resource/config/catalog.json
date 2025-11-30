@@ -274,7 +274,10 @@
           "id": "UBWB002",
           "name": "SteelWave",
           "image": "/resource/catalog_image/UBWB002.png",
-          "images": ["/resource/catalog_image/UBWB002_1.png","/resource/catalog_image/UBWB002_2.png"],
+          "images": [
+            "/resource/catalog_image/UBWB002_1.png",
+            "/resource/catalog_image/UBWB002_2.png"
+          ],
           "originalPrice": "199",
           "price": "149",
           "startingFrom": false,
@@ -696,7 +699,7 @@
             "Style - Shoulder"
           ]
         },
-                {
+        {
           "id": "UNMG102",
           "name": "Laptop Sleeve",
           "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
@@ -1598,9 +1601,134 @@
           ]
         }
       ]
+    },
+    {
+      "id": "watchandfancy",
+      "name": "Watch and Fancy",
+      "description": "Fancy Gifting Entity",
+      "items": [
+        {
+          "id": "UBWF001",
+          "name": "Facy Wooden Clock",
+          "images": [
+            "/resource/catalog_image/UBWF001_1.png",
+            "/resource/catalog_image/UBWF001_2.png",
+            "/resource/catalog_image/UBWF001_3.png"
+          ],
+          "originalPrice": "915.6",
+          "price": "800",
+          "startingFrom": false,
+          "searchText": "wooden desk clock, digital wooden clock, modern home decor, office desk clock, voice control clock, temperature display clock, corporate gift clock, LED wooden clock",
+          "description": [
+            "Digital Wooden Table Desk Clock",
+            "Voice Control",
+            "Temperature Display",
+            "Ideal for Home & Office Decor"
+          ]
+        },
+        {
+          "id": "UBWF002",
+          "name": "Aeroplane Clock",
+          "images": [
+            "/resource/catalog_image/UBWF002_1.png",
+            "/resource/catalog_image/UBWF002_2.png",
+            "/resource/catalog_image/UBWF002_3.png"
+          ],
+          "originalPrice": "799",
+          "price": "450",
+          "startingFrom": false,
+          "searchText": "aeroplane clock, aircraft table clock, metallic desk clock, rotating wheel clock, corporate gifting clock, aviation theme showpiece clock, study table clock, office desk accessory",
+          "description": [
+            "Full Metal Body with Rotating Wheels & Metallic Polish",
+            "Dimensions: 5cm x 10cm | 1 Table Clock",
+            "Ideal for Study Table, Office Desk & Corporate Gifting"
+          ]
+        },
+        {
+          "id": "UBWF003",
+          "name": "Table Pendulum Watch",
+          "images": [
+            "/resource/catalog_image/UBWF003_1.png"
+          ],
+          "originalPrice": "703",
+          "price": "499",
+          "startingFrom": false,
+          "searchText": "pendulum desk watch, stainless steel desk clock, premium table watch, corporate gift watch, analog desktop watch, stylish office décor clock",
+          "description": [
+            "Square Shape Stainless Steel Analog Clock",
+            "Ideal for Office & Corporate Desktop",
+            "Premium Look for Quality Lovers"
+          ]
+        },
+        {
+          "id": "UBWF004",
+          "name": "Bicycle Clock",
+          "images": [
+            "/resource/catalog_image/UBWF004_1.png",
+            "/resource/catalog_image/UBWF004_2.png",
+            "/resource/catalog_image/UBWF004_3.png",
+            "/resource/catalog_image/UBWF004_4.png"
+          ],
+          "originalPrice": "903",
+          "price": "599",
+          "startingFrom": false,
+          "searchText": "cycle clock, antique finish table clock, metal bicycle clock, decorative desk clock, stylish home decor clock, showroom display clock, gifting desk accessory",
+          "description": [
+            "High-quality Metal Material with Antique Finish",
+            "Durable Table Clock with Easy-to-read Dial",
+            "Great for Office, Home, Showroom & Gifting"
+          ]
+        },
+        {
+          "id": "UBWF005",
+          "name": "Bike Clock",
+          "images": [
+            "/resource/catalog_image/UBWF005_1.png"
+          ],
+          "originalPrice": "1232.18",
+          "price": "999",
+          "startingFrom": false,
+          "searchText": "bike shaped clock, motorcycle desk clock, stainless steel table watch, antique finish bike clock, corporate gift premium desktop watch",
+          "description": [
+            "Stainless Steel Analog Clock with Bike Design",
+            "Antique Finish with Stylish Desk Look"
+          ]
+        },
+        {
+          "id": "UBWF006",
+          "name": "Helicopter Clock",
+          "images": [
+            "/resource/catalog_image/UBWF006_1.png",
+            "/resource/catalog_image/UBWF006_2.png"
+          ],
+          "originalPrice": "1113",
+          "price": "999",
+          "startingFrom": false,
+          "searchText": "helicopter clock, iron desk clock, antique finish chopper clock, analog décor watch, modern office table clock, unique gifting desk watch",
+          "description": [
+            "Iron Material Analog Helicopter Style Clock",
+            "Antique Finish | Size 10 inch | Dial 3 inch",
+            "Ideal for Office Desk & Home Decor"
+          ]
+        },
+        {
+          "id": "UBWF007",
+          "name": "Digital Clock with Pen Stand",
+          "images": [
+            "/resource/catalog_image/UBWF007_1.png"
+          ],
+          "originalPrice": "685.3",
+          "price": "499",
+          "startingFrom": false,
+          "searchText": "digital pen stand clock, desktop clock stand, multifunction digital clock, white pen stand clock, corporate table organizer, alarm desk clock",
+          "description": [
+            "ABS Material Digital Clock with Pen Holder",
+            "24-Hour Format, Alarm Function, Battery Powered",
+            "Perfect Office Desk Organizer"
+          ]
+        }
+      ]
     }
   ],
   "note": "💡 <strong>Bulk Orders Welcome:</strong> Contact us for special pricing on bulk orders. All items can be customized with your company logo and branding."
-
 }
-
