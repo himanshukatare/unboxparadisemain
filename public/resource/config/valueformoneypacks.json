@@ -10,7 +10,7 @@
       "actualPrice": "799",
       "price": "₹499",
       "textColor": "text-pink-600",
-      "image": "/resource/welcomekit1.avif"
+      "image": "/resource/catalog_image/UBPBUN001.png"
     },
     {
       "id": "UBPBUN002",
@@ -21,7 +21,7 @@
       "actualPrice": "999",
       "price": "₹699",
       "textColor": "text-pink-600",
-      "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp"
+      "image": "/resource/catalog_image/UBPBUN002.png"
     },
     {
       "id": "UBPBUN003",
@@ -32,7 +32,7 @@
       "actualPrice": "₹1399",
       "price": "₹999",
       "textColor": "text-pink-600",
-      "image": "/resource/corporategift.webp"
+      "image": "/resource/catalog_image/UBPBUN003.png"
     }
   ],
   "note": "📝 <strong>Note:</strong> You can customise items according to your brand name and logo for T-shirts, Pen, Notepad, Water Bottle, etc. You can also add addons to each value-for-money pack to personalize your kit further."

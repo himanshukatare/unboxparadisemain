@@ -9,7 +9,15 @@ const getInitialCart = () => {
 
     try {
         const stored = window.localStorage.getItem('unboxparadise-cart');
-        return stored ? JSON.parse(stored) : [];
+        const parsed = stored ? JSON.parse(stored) : [];
+        // Normalize any legacy/stale items persisted in localStorage so
+        // UI can reliably use `item.image` or `item.images[0]`.
+        return Array.isArray(parsed)
+            ? parsed.map((it) => ({
+                  ...it,
+                  image: it.image || (Array.isArray(it.images) && it.images.length > 0 ? it.images[0] : undefined)
+              }))
+            : [];
     } catch (error) {
         console.warn('Unable to read cart from localStorage', error);
         return [];
@@ -28,11 +36,15 @@ export const CartProvider = ({ children }) => {
     }, [cartItems]);
 
     const addItem = useCallback((item) => {
+        const normalized = {
+            ...item,
+            image: item.image || (Array.isArray(item.images) && item.images.length > 0 ? item.images[0] : undefined)
+        };
         setCartItems((prev) => {
-            if (prev.some((existing) => existing.id === item.id)) {
+            if (prev.some((existing) => existing.id === normalized.id)) {
                 return prev;
             }
-            return [...prev, item];
+            return [...prev, normalized];
         });
     }, []);
 
@@ -41,11 +53,15 @@ export const CartProvider = ({ children }) => {
     }, []);
 
     const toggleItem = useCallback((item) => {
+        const normalized = {
+            ...item,
+            image: item.image || (Array.isArray(item.images) && item.images.length > 0 ? item.images[0] : undefined)
+        };
         setCartItems((prev) => {
-            if (prev.some((existing) => existing.id === item.id)) {
-                return prev.filter((existing) => existing.id !== item.id);
+            if (prev.some((existing) => existing.id === normalized.id)) {
+                return prev.filter((existing) => existing.id !== normalized.id);
             }
-            return [...prev, item];
+            return [...prev, normalized];
         });
     }, []);
 
