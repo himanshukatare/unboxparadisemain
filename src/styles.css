@@ -437,17 +437,31 @@ html {
 
 @media (max-width: 768px) {
     .carousel-nav-btn {
-        width: 44px;
-        height: 44px;
+        width: 36px;
+        height: 36px;
+    }
+    .carousel-nav-btn svg {
+        width: 20px;
+        height: 20px;
     }
     .carousel-nav-btn.prev {
-        left: 1.5rem;
+        left: 0.5rem;
     }
     .carousel-nav-btn.next {
-        right: 1.5rem;
+        right: 0.5rem;
     }
 }
 
+@media (max-width: 480px){
+        .carousel-nav-btn {
+        width: 32px;
+        height: 32px;
+    }
+    .carousel-nav-btn svg {
+        width: 18px;
+        height: 18px;
+    }
+}
 .carousel-indicators {
     display: flex;
     justify-content: center;
@@ -464,7 +478,11 @@ html {
     width: 100%;
     max-width: fit-content;
 }
-
+@media (max-width: 768px){
+    .carousel-indicators{
+        display: none
+    }
+}
 .carousel-indicator {
     width: 14px;
     height: 14px;
