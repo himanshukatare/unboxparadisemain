@@ -184,17 +184,26 @@ const MyCart = () => {
                                         ? 'Per Pack'
                                         : pricingLabelRaw;
 
+                                // Get the appropriate image: fallback to first image in array if image property doesn't exist
+                                const itemImage = item.image || (Array.isArray(item.images) && item.images.length > 0 ? item.images[0] : undefined);
+
                                 return (
                                 <div
                                     key={item.id}
                                     className="flex flex-col lg:flex-row gap-5 lg:gap-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.5)]"
                                 >
                                     <div className="w-full lg:w-48 h-48 lg:h-32 overflow-hidden rounded-xl bg-gradient-to-br from-orange-50 to-pink-50 flex-shrink-0">
-                                        <img
-                                            src={item.image}
-                                            alt={item.name}
-                                            className="w-full h-full object-cover"
-                                        />
+                                        {itemImage ? (
+                                            <img
+                                                src={itemImage}
+                                                alt={item.name}
+                                                className="w-full h-full object-cover"
+                                            />
+                                        ) : (
+                                            <div className="w-full h-full flex items-center justify-center text-gray-400">
+                                                Image not available
+                                            </div>
+                                        )}
                                     </div>
 
                                     <div className="flex-1 flex flex-col gap-4">

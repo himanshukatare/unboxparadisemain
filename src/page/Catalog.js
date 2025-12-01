@@ -242,11 +242,17 @@ const Catalog = () => {
                                                 className="w-full flex items-center gap-3 px-3 py-2 hover:bg-gradient-to-r hover:from-orange-50 hover:to-pink-50 rounded-lg transition-all text-left"
                                             >
                                                 <div className="flex-shrink-0 w-12 h-12 rounded-lg overflow-hidden bg-gray-100">
-                                                    <img
-                                                        src={item.image}
-                                                        alt={item.name}
-                                                        className="w-full h-full object-cover"
-                                                    />
+                                                    {(item.image || (Array.isArray(item.images) && item.images.length > 0 ? item.images[0] : null)) ? (
+                                                        <img
+                                                            src={item.image || (Array.isArray(item.images) ? item.images[0] : '')}
+                                                            alt={item.name}
+                                                            className="w-full h-full object-cover"
+                                                        />
+                                                    ) : (
+                                                        <div className="w-full h-full bg-gray-300 flex items-center justify-center text-xs text-gray-500">
+                                                            No image
+                                                        </div>
+                                                    )}
                                                 </div>
                                                 <div className="flex-1 min-w-0">
                                                     <div className="text-sm font-semibold text-gray-900 truncate">
