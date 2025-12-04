@@ -59,6 +59,13 @@ const Footer = ({ data }) => {
                 </a>
                 )}
                 
+                {/* Blog Link - SEO */}
+                <div className="mt-2 mb-2">
+                    <a href="/blogs/corporate-gifting-seo" className="text-white hover:underline text-sm">
+                        Corporate Gifting: Best Practices
+                    </a>
+                </div>
+
                 {/* Social Media - Follow Us */}
                 <div className="mt-3 pt-3 border-t border-white border-opacity-20">
                     <p className="text-white opacity-80 text-xs mb-2">{data.socialMedia.label}</p>

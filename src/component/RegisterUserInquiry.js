@@ -126,8 +126,8 @@ const RegisterUserInquiry = ({ contactDetails }) => {
         };
 
         const fallbackEmail = {
-            display: 'contact@unboxparadise.com',
-            link: 'mailto:contact@unboxparadise.com'
+            display: 'connect@unboxparadise.com',
+            link: 'mailto:connect@unboxparadise.com'
         };
 
         const fallbackWhatsapp = {

@@ -15,6 +15,7 @@ const ContactUsPage = lazy(() => import('./page/ContactUsPage'));
 const MyCart = lazy(() => import('./page/MyCart'));
 const OurProcessPage = lazy(() => import('./page/OurProcessPage'));
 const BundledPackPage = lazy(() => import('./page/BundledPackPage'));
+const BlogPage = lazy(() => import('./page/BlogPage'));
 
 function ScrollToTop() {
   const { pathname, hash } = useLocation();
@@ -71,6 +72,7 @@ function App() {
               <Route path="/contact-us" element={<ContactUsPage />} />
               <Route path="/contact" element={<ContactUsPage />} />
               <Route path="/my-cart" element={<MyCart />} />
+              <Route path="/blogs/:slug" element={<BlogPage />} />
             </Routes>
           </Suspense>
           <Footer data={footerData} />
