@@ -31,8 +31,9 @@
           "badge": "Value Pack",
           "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
           "images": [
-            "/resource/catalog_image/UBWT0012_1.png",
-            "/resource/catalog_image/UBWT0012_2.png"
+            "/resource/catalog_image/UBWT0012_1.jpg",
+            "/resource/catalog_image/UBWT0012_2.jpg",
+            "/resource/catalog_image/UBWT0012_3.jpg"
           ],
           "originalPrice": "399",
           "price": "249",
@@ -51,9 +52,9 @@
           "name": "Corporate Dri-Fit Polo",
           "searchText": "promotional t-shirt, corporate t-shirt, event t-shirt, team t-shirt, merchandise t-shirt,t-shirt, tee shirt, tee, crew neck t-shirt, round neck t-shirt, v-neck t-shirt, polo t-shirt, half sleeve t-shirt, full sleeve t-shirt, oversized t-shirt, relaxed fit t-shirt, regular fit t-shirt, slim fit t-shirt, athletic fit t-shirt, cotton t-shirt, polyester t-shirt, dry-fit t-shirt, performance t-shirt, sports t-shirt, training t-shirt, gym t-shirt, running t-shirt, casual t-shirt, basic t-shirt, graphic t-shirt, printed t-shirt, embroidered t-shirt, logo t-shirt, branded t-shirt",
           "images": [
-            "/resource/catalog_image/UBWT0013_1.png",
-            "/resource/catalog_image/UBWT0013_2.png",
             "/resource/catalog_image/UBWT0013_3.png",
+            "/resource/catalog_image/UBWT0013_2.png",
+            "/resource/catalog_image/UBWT0013_1.png",
             "/resource/catalog_image/UBWT0013_4.png"
           ],
           "originalPrice": "499",
@@ -78,10 +79,10 @@
           "badge": "Corporate Favorite",
           "startingFrom": false,
           "images": [
-            "/resource/catalog_image/UBWT0014_1.png",
             "/resource/catalog_image/UBWT0014_2.png",
             "/resource/catalog_image/UBWT0014_3.png",
-            "/resource/catalog_image/UBWT0014_4.png"
+            "/resource/catalog_image/UBWT0014_4.png",
+            "/resource/catalog_image/UBWT0014_1.png"
           ],
           "description": [
             "Neck Style -Polo / Collar",
@@ -102,8 +103,9 @@
           "price": "499",
           "startingFrom": false,
           "images": [
-            "/resource/catalog_image/UBWT005_1.png",
-            "/resource/catalog_image/UBWT005_2.png"
+            "/resource/catalog_image/UBWT005_1.jpg",
+            "/resource/catalog_image/UBWT005_2.jpg",
+            "/resource/catalog_image/UBWT005_3.jpg"
           ],
           "description": [
             "100% Cotton Matty",
@@ -300,7 +302,7 @@
           "badge": "",
           "images": [
             "/resource/catalog_image/UBWB001_1.png",
-            "/resource/catalog_image/UBWB001_2.png"
+            "/resource/catalog_image/UBWB001_2.jpg"
           ],
           "description": [
             "Premium Aluminium Body",
@@ -353,6 +355,21 @@
           ]
         },
         {
+          "id": "UBWB008",
+          "name": "Coper Bottel",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "699",
+          "price": "479",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB008_1.jpg"
+          ],
+          "description": [
+            "Capacity - 1000 mL",
+            "Material - Copper"
+          ]
+        },
+        {
           "id": "UBWB007",
           "name": "MaxInsulate",
           "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
@@ -371,6 +388,44 @@
             "Perfect for Office, School, Travel & Sports",
             "Leak Proof Lid",
             "Vacuum insulation maintains hot/cold beverages for up to 12 hours"
+          ]
+        },
+        {
+          "id": "UBWB009",
+          "name": "CoperPlus",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "1199",
+          "price": "929",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB009_1.jpg"
+          ],
+          "description": [
+            "Capacity - 500 mL",
+            "Material - Copper",
+            "Color - Silver",
+            "With Sipper - YES",
+            "Bottle Type - Alkaline Water Bottle",
+            "Stlish Design"
+          ]
+        },
+        {
+          "id": "UBWB010",
+          "name": "SilkyCop",
+          "searchText": "Bottle,custom logo bottle, promotional bottle, corporate bottle, branded hydration bottle, employee gift bottle,Tumbler,hydration bottle, insulated bottle, thermal bottle, stainless steel bottle, vacuum bottle, travel bottle, refillable bottle, sports bottle, sipper bottle, drinking flask, fitness bottle, gym bottle, sports sipper, energy bottle, hydration flask, executive bottle",
+          "originalPrice": "1199",
+          "price": "929",
+          "startingFrom": false,
+          "images": [
+            "/resource/catalog_image/UBWB0010_1.jpg",
+            "/resource/catalog_image/UBWB0010_2.jpg"
+          ],
+          "description": [
+            "Pure Copper Water Bottle",
+            "Capacity – 950 ML",
+            "Material - 99% Pure Copper",
+            "Finish – Gray Silk Coating",
+            "Premium Luxury Finish"
           ]
         }
       ]
@@ -789,8 +844,8 @@
             "Premium Detailing Customization"
           ],
           "images": [
-            "/resource/catalog_image/UNMG016_2.jpg",
-            "/resource/catalog_image/UNMG016_1.jpg"
+            "/resource/catalog_image/UNMG016_1.jpg",
+            "/resource/catalog_image/UNMG016_2.jpg"
           ]
         },
         {
@@ -848,7 +903,6 @@
             "/resource/catalog_image/UNMG040_2.jpg",
             "/resource/catalog_image/UNMG040_3.jpg",
             "/resource/catalog_image/UNMG040_4.jpg",
-            "/resource/catalog_image/UNMG040_5.jpg",
             "/resource/catalog_image/UNMG040_1.jpg"
           ]
         }
@@ -894,7 +948,6 @@
         {
           "id": "UNMG058",
           "name": "Highlighter",
-          "image": "/resource/catalog_image/UNMG011_1.PNG",
           "originalPrice": "40",
           "price": "30",
           "startingFrom": false,
@@ -905,13 +958,12 @@
             "Long-Lasting Ink"
           ],
           "images": [
-            "/resource/catalog_image/UNMG058.jpg"
+            "/resource/catalog_image/UNMG058_1.jpg"
           ]
         },
         {
           "id": "UBNP001",
           "name": "Customised NotePad",
-          "image": "/resource/catalog_image/UNMG011_1.PNG",
           "searchText": "corporate notepad, branded notepad, custom notepad, printed notepad, logo notepad, promotional notepad,notepad, notebook, memo pad, writing pad, scratch pad, note pad, journal, diary, sketch pad, spiral notebook, spiral pad, legal pad, stenographer pad, planner pad, desk pad, office pad, pocket notepad, mini notebook, hardbound notebook, softbound notebook, ruled notepad, unruled notepad, grid notepad, dotted notepad, journal notebook, meeting pad, office notebook, project notebook, study notebook",
           "originalPrice": "99",
           "price": "59",
@@ -922,7 +974,7 @@
             "Multiple Size Options"
           ],
           "images": [
-            "/resource/catalog_image/UBNP001.jpg"
+            "/resource/catalog_image/UBNP001_1.jpg"
           ]
         },
         {
@@ -1054,7 +1106,7 @@
         {
           "id": "UBDY004",
           "name": "Premium New Year Diary",
-          "image": "/resource/catalog_image/UNMG011_1.PNG",
+          "image": "/resource/catalog_image/UNMG011_1.jpg",
           "searchText": "spiral diary, custom diary, printed diary, branded diary, logo diary, promotional diary, corporate diary, business diary, gift diary,diary, journal, daily planner, personal journal, writing diary, pocket diary, executive diary, planner diary, schedule book, agenda, appointment book, day planner, weekly planner, monthly planner, yearly planner, desk diary, office diary, academic diary",
           "originalPrice": "319",
           "price": "249",
@@ -1066,8 +1118,8 @@
             "Customized Design"
           ],
           "images": [
-            "/resource/catalog_image/UBDY004_1.PNG",
-            "/resource/catalog_image/UBDY004_2.PNG"
+            "/resource/catalog_image/UBDY004_1.jpg",
+            "/resource/catalog_image/UBDY004_2.jpg"
           ]
         },
         {
