@@ -473,7 +473,6 @@
           "price": "399",
           "startingFrom": false,
           "images": [
-            "/resource/catalog_image/UBLB003_1.png",
             "/resource/catalog_image/UBLB003_2.png",
             "/resource/catalog_image/UBLB003_3.png",
             "/resource/catalog_image/UBLB003_4.png"
@@ -809,8 +808,7 @@
           ],
           "images": [
             "/resource/catalog_image/UNMG029_2.jpg",
-            "/resource/catalog_image/UNMG029_1.jpg",
-            "/resource/catalog_image/UNMG029_3.jpg"
+            "/resource/catalog_image/UNMG029_1.jpg"
           ]
         },
         {
@@ -1125,8 +1123,7 @@
           ],
           "images": [
             "/resource/catalog_image/UNMG050_2.jpg",
-            "/resource/catalog_image/UNMG050_4.jpg",
-            "/resource/catalog_image/UNMG050_1.jpg"
+            "/resource/catalog_image/UNMG050_4.jpg"
           ]
         },
         {
@@ -1496,8 +1493,7 @@
           ],
           "images": [
             "/resource/catalog_image/UNMG050_2.jpg",
-            "/resource/catalog_image/UNMG050_4.jpg",
-            "/resource/catalog_image/UNMG050_1.jpg"
+            "/resource/catalog_image/UNMG050_4.jpg"
           ]
         },
         {
