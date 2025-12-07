@@ -4,8 +4,8 @@
   "homeFeaturedIds": [
     "UBPBUN009",
     "UBPBUN010",
-    "employee-joining",
-    "executive-bundle"
+    "UBPBUN015",
+    "UBPBUN016"
   ],
   "note": "💡 <strong>Note:</strong> All packs can be customized according to your requirements. Contact us for personalized solutions!",
   "items": [
@@ -197,8 +197,8 @@
         "New Year Diary",
         "Table Calendar"
       ],
-      "originalPrice": "₹499",
-      "price": "₹299",
+      "originalPrice": "499",
+      "price": "299",
       "textColor": "text-pink-600",
       "images": [
         "/resource/catalog_image/UBPBUN015_1.png"
@@ -214,8 +214,8 @@
         "Chocolate",
         "Coffee Mug"
       ],
-      "originalPrice": "₹649",
-      "price": "₹499",
+      "originalPrice": "649",
+      "price": "499",
       "textColor": "text-pink-600",
       "images": [
         "/resource/catalog_image/UBPBUN016_1.png"
