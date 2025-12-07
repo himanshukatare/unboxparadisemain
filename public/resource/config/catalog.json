@@ -475,6 +475,116 @@
           ]
         },
         {
+          "id": "UBBG005",
+          "name": "Premium Laptop Backpack",
+          "originalPrice": "460",
+          "price": "560",
+          "searchText": "laptop bag, laptop backpack, office backpack, corporate gifting bag, waterproof backpack, premium backpack, travel backpack, branded bag, custom logo backpack",
+          "startingFrom": false,
+          "badge": "Premium",
+          "images": [
+            "/resource/catalog_image/UBBG005_1.png",
+            "/resource/catalog_image/UBBG005_2.png"
+          ],
+          "description": [
+            "Premium Polyester/Nylon construction",
+            "20–25L spacious capacity",
+            "Water-resistant and durable material",
+            "Multiple pockets with 15.6-inch laptop sleeve",
+            "Padded straps and breathable back panel",
+            "Perfect for office, travel, college and corporate gifting",
+            "Supports custom logo branding"
+          ]
+        },
+        {
+          "id": "UBBG006",
+          "name": "Executive Leather-Style Backpack",
+          "originalPrice": "601",
+          "price": "701",
+          "searchText": "executive backpack, leather backpack, office bag, premium laptop bag, branded bag, corporate gift backpack, travel bag, customized backpack",
+          "startingFrom": false,
+          "badge": "Premium",
+          "images": [
+            "/resource/catalog_image/UBBG006_1.png",
+            "/resource/catalog_image/UBBG006_2.png",
+            "/resource/catalog_image/UBBG006_3.png"
+          ],
+          "description": [
+            "Leather-finish stylish design",
+            "Black color with customization options",
+            "Multiple compartments with padded 15.6-inch laptop sleeve",
+            "Durable and water-resistant fabric",
+            "Padded shoulder straps for all-day comfort",
+            "Ideal for office professionals, corporate gifting and travel"
+          ]
+        },
+        {
+          "id": "UBBG007",
+          "name": "Classic Office Laptop Backpack",
+          "originalPrice": "649",
+          "price": "749",
+          "searchText": "laptop backpack, office bag, black backpack, lightweight laptop bag, branded backpack, promotional bag, daily use backpack",
+          "startingFrom": false,
+          "badge": "Popular",
+          "images": [
+            "/resource/catalog_image/UBBG007_1.png",
+            "/resource/catalog_image/UBBG007_2.png",
+            "/resource/catalog_image/UBBG007_3.png"
+          ],
+          "description": [
+            "Made with high-quality durable fabric",
+            "Elegant black color with plain pattern",
+            "Laptop-friendly design",
+            "Spacious and organized compartments",
+            "Lightweight and comfortable for daily use",
+            "Suitable for office, travel and college"
+          ]
+        },
+        {
+          "id": "UBBG008",
+          "name": "Lightweight Polyester Backpack",
+          "originalPrice": "531",
+          "price": "631",
+          "searchText": "polyester backpack, lightweight bag, office backpack, promotional backpack, custom print bag, branded gifting bag, travel bag",
+          "startingFrom": false,
+          "badge": "Value Pack",
+          "images": [
+            "/resource/catalog_image/UBBG008_1.png",
+            "/resource/catalog_image/UBBG008_2.png",
+            "/resource/catalog_image/UBBG008_3.png"
+          ],
+          "description": [
+            "Durable polyester material",
+            "Simple and clean plain pattern",
+            "Lightweight and easy to carry",
+            "Available in EverColor shades",
+            "Made in India quality product",
+            "Ideal for office use and promotional branding"
+          ]
+        },
+        {
+          "id": "UBBG009",
+          "name": "Blue Laptop Backpack",
+          "originalPrice": "885",
+          "price": "985",
+          "searchText": "laptop backpack, blue backpack, office bag, travel laptop bag, branded backpack, corporate gift bag",
+          "startingFrom": false,
+          "badge": "Premium",
+          "images": [
+            "/resource/catalog_image/UBBG009_1.png",
+            "/resource/catalog_image/UBBG009_2.png",
+            "/resource/catalog_image/UBBG009_3.png"
+          ],
+          "description": [
+            "Durable polyester fabric",
+            "Attractive blue color",
+            "Laptop-friendly design",
+            "Spacious interior for daily use",
+            "Perfect for office professionals, students and travelers",
+            "Can be personalized with your brand logo"
+          ]
+        },
+        {
           "id": "UBLB001",
           "name": "Clasic Laptop Side Bag",
           "searchText": "bag,promotional bag, corporate bag, branded bag, logo printed bag, custom bag,shoulder bag, sling bag, backpack, rucksack, knapsack, laptop bag",
@@ -549,7 +659,11 @@
           "price": "439",
           "startingFrom": false,
           "images": [
-            "/resource/catalog_image/UBLB004_1.png"
+            "/resource/catalog_image/UBLB004_1.png",
+            "/resource/catalog_image/UBLB004_2.png",
+            "/resource/catalog_image/UBLB004_3.png",
+            "/resource/catalog_image/UBLB004_4.png",
+            "/resource/catalog_image/UBLB004_5.png"
           ],
           "description": [
             "Material - Italian Leather",
@@ -1632,14 +1746,17 @@
           "image": "/resource/catalog_image/UNMG011_1.PNG",
           "originalPrice": "499",
           "price": "339",
-          "startingFrom": false,
+          "startingFrom": true,
           "description": [
             "Premium Build Quality",
             "Multiple Size Options",
             "Clear & Polished Shine"
           ],
           "images": [
-            "/resource/catalog_image/UNMG100.jpg"
+            "/resource/catalog_image/UNMG100_3.png",
+            "/resource/catalog_image/UNMG100_1.png",
+            "/resource/catalog_image/UNMG100_2.png",
+            "/resource/catalog_image/UNMG100_4.png"
           ]
         }
       ]

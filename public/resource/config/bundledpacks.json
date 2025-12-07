@@ -188,6 +188,38 @@
       "images": [
         "/resource/catalog_image/UBPBUN003.png"
       ]
+    },
+    {
+      "id": "UBPBUN015",
+      "name": "New Year Essentials Kit",
+      "description": "A premium New Year essentials kit designed to inspire productivity and fresh beginnings. Perfect for professional teams, onboarding gifts, and employee appreciation.",
+      "itemsIncluded": [
+        "New Year Diary",
+        "Table Calendar"
+      ],
+      "originalPrice": "₹499",
+      "price": "₹299",
+      "textColor": "text-pink-600",
+      "images": [
+        "/resource/catalog_image/UBPBUN015_1.png"
+      ]
+    },
+    {
+      "id": "UBPBUN016",
+      "name": "Christmas & New Year Celebration Combo",
+      "description": "A festive celebration combo featuring premium essentials for Christmas and New Year. Ideal for gifting employees, clients, and valued partners during the holiday season.",
+      "itemsIncluded": [
+        "New Year Diary",
+        "Table Calendar",
+        "Chocolate",
+        "Coffee Mug"
+      ],
+      "originalPrice": "₹649",
+      "price": "₹499",
+      "textColor": "text-pink-600",
+      "images": [
+        "/resource/catalog_image/UBPBUN016_1.png"
+      ]
     }
   ]
 }
