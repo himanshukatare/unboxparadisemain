@@ -122,7 +122,7 @@ const RegisterUserInquiry = ({ contactDetails }) => {
     const contactInfo = useMemo(() => {
         const fallbackPhone = {
             display: '+91 96309 88265',
-            link: 'tel:+919630988265'
+            link: 'tel:+919630982265'
         };
 
         const fallbackEmail = {
@@ -132,7 +132,7 @@ const RegisterUserInquiry = ({ contactDetails }) => {
 
         const fallbackWhatsapp = {
             display: 'WhatsApp',
-            link: 'https://wa.me/919630988265'
+            link: 'https://wa.me/919630982265'
         };
 
         const fallbackAddress = {
