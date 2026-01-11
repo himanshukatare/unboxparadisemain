@@ -10,7 +10,7 @@ const GetQuotePage = () => {
 
     const [submitStatus, setSubmitStatus] = useState('');
     const contactDetails = useContactDetails();
-    const supportPhone = contactDetails?.phone || { display: '+91 96309 88265', link: 'tel:+919630982265' };
+    const supportPhone = contactDetails?.phone || { display: '+91 96309 82265', link: 'tel:+919630982265' };
 
     const handleChange = (e) => {
         const { name, value } = e.target;

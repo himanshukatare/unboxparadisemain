@@ -121,7 +121,7 @@ const RegisterUserInquiry = ({ contactDetails }) => {
 
     const contactInfo = useMemo(() => {
         const fallbackPhone = {
-            display: '+91 96309 88265',
+            display: '+91 96309 82265',
             link: 'tel:+919630982265'
         };
 
