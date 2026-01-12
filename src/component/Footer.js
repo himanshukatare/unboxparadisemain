@@ -60,8 +60,11 @@ const Footer = ({ data }) => {
                 </a>
                 )}
                 
-                {/* Blog Link - SEO (use client-side navigation to avoid server 404 on refresh) */}
+                {/* Blog Links - SEO (use client-side navigation to avoid server 404 on refresh) */}
                 <div className="mt-2 mb-2">
+                    <Link to="/blogs/blog-list" className="text-white hover:underline text-sm mr-4">
+                        Our Blogs
+                    </Link>
                     <Link to="/blogs/corporate-gifting-seo" className="text-white hover:underline text-sm">
                         Corporate Gifting: Best Practices
                     </Link>
