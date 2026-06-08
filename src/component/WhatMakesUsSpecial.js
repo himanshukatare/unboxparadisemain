@@ -15,7 +15,7 @@ const WhatMakesUsSpecial = ({ data }) => {
                         <div key={f.id} className="bg-gray-800 p-6 rounded-md">
                             <div className="text-3xl mb-4 text-teal-400">{f.icon ? '★' : '★'}</div>
                             <h3 className="text-xl font-semibold text-white">{f.title}</h3>
-                            <p className="mt-2 text-gray-300">{f.description}</p>
+                            <p className="mt-2 text-gray-600">{f.description}</p>
                         </div>
                     ))}
                 </div>

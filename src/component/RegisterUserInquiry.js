@@ -173,10 +173,10 @@ const RegisterUserInquiry = ({ contactDetails }) => {
 
                     <div className="grid gap-6 lg:gap-8 items-start lg:grid-cols-[1.5fr_1fr]">
                         {/* Left Column - Information */}
-                        <div className="relative overflow-hidden rounded-xl border border-white/10 bg-white/[0.08] p-4 md:p-6 text-left shadow-inner">
-                            <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-orange-500/10 via-transparent to-pink-500/5" />
-                            <div className="pointer-events-none absolute -top-24 right-6 h-48 w-48 rounded-full bg-orange-400/15 blur-3xl" />
-                            <div className="pointer-events-none absolute -bottom-20 -left-16 h-40 w-40 rounded-full bg-pink-500/20 blur-3xl" />
+                        <div className="relative overflow-hidden rounded-xl border border-white/10 p-4 md:p-6 text-left shadow-inner bg-black/40">
+                            <div className="" />
+                            <div className="" />
+                            <div className="" />
 
                             <div className="relative z-10 space-y-4">
                                 <div className="flex items-start gap-3">
@@ -368,7 +368,7 @@ const RegisterUserInquiry = ({ contactDetails }) => {
                                             </div>
                                             <div className="flex flex-col min-w-0 flex-1">
                                                 <span className="text-[9px] text-gray-400 uppercase tracking-wider leading-none">Twitter</span>
-                                                <span className="text-xs font-semibold text-white group-hover:text-gray-300 transition-colors truncate">
+                                                <span className="text-xs font-semibold text-white group-hover:text-gray-600 transition-colors truncate">
                                                     {contactInfo.social.twitter.handle}
                                                 </span>
                                             </div>

@@ -10,7 +10,7 @@ const WhyChooseUs = ({ data }) => {
                     {data.heading}
                 </h2>
                 {data.subheading && (
-                    <p className="text-gray-300 text-sm md:text-base max-w-3xl mx-auto mt-3">
+                    <p className="text-gray-600 text-sm md:text-base max-w-3xl mx-auto mt-3">
                         {data.subheading}
                     </p>
                 )}

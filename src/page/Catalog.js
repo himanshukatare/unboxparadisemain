@@ -157,9 +157,9 @@ const Catalog = () => {
     }
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
+        <div className="min-h-full">
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
-                  style={{ background: 'rgb(19,19,24)', paddingTop: '120px' }}>
+                  style={{ paddingTop: '120px' }}>
                 
                 {/* Page Header */}
                 <div className="w-full mx-auto mb-8 md:mb-12 px-2 sm:px-4 max-w-[120rem]">
@@ -167,7 +167,7 @@ const Catalog = () => {
                         {catalogData.heading}
                     </h1>
                     {catalogData.subheading && (
-                        <p className="text-center text-gray-300 text-base md:text-lg max-w-3xl mx-auto">
+                        <p className="text-center text-gray-600 text-base md:text-lg max-w-3xl mx-auto">
                             {catalogData.subheading}
                         </p>
                     )}
@@ -277,7 +277,7 @@ const Catalog = () => {
                             {showSuggestions && searchQuery.length >= 3 && suggestions.length === 0 && (
                                 <div className="absolute z-50 w-full mt-2 bg-white rounded-lg shadow-2xl border border-gray-200 p-4">
                                     <div className="text-center text-gray-500">
-                                        <svg className="w-12 h-12 mx-auto mb-2 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <svg className="w-12 h-12 mx-auto mb-2 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                                         </svg>
                                         <p className="text-sm">No products found matching "{searchQuery}"</p>
@@ -290,7 +290,7 @@ const Catalog = () => {
                         {/* Active search indicator */}
                         {searchTerm && (
                             <div className="mt-3 flex items-center justify-between px-2">
-                                <div className="text-sm text-gray-300">
+                                <div className="text-sm text-gray-600">
                                     Showing results for: <span className="font-semibold text-white">"{searchTerm}"</span>
                                 </div>
                                 <button
@@ -340,7 +340,7 @@ const Catalog = () => {
                                         {category.name}
                                     </h2>
                                     {category.description && (
-                                        <p className="text-gray-300 text-sm md:text-base">
+                                        <p className="text-gray-600 text-sm md:text-base">
                                             {category.description}
                                         </p>
                                     )}
@@ -366,7 +366,7 @@ const Catalog = () => {
                 ) : searchTerm ? (
                     <div className="w-full mx-auto px-2 sm:px-4 max-w-[120rem]">
                         <div className="bg-gradient-to-r from-orange-50 to-pink-50 rounded-xl p-12 text-center">
-                            <svg className="w-24 h-24 mx-auto mb-4 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <svg className="w-24 h-24 mx-auto mb-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                             </svg>
                             <h3 className="text-2xl font-bold text-gray-700 mb-2">No Products Found</h3>

@@ -40,9 +40,9 @@ const GetQuotePage = () => {
     };
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
+        <div className="min-h-full">
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
-                  style={{ background: 'rgb(19,19,24)', paddingTop: '140px', minHeight: '100vh' }}>
+                  style={{ paddingTop: '140px', minHeight: '100vh' }}>
                 
                 {/* Page Heading */}
                 <div className="text-center mb-8 md:mb-12">

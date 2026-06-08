@@ -51,7 +51,7 @@ function App() {
     <Router>
       <ScrollToTop />
       <CartProvider>
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
+        <div className="min-h-full">
           <Header data={headerData} />
           <Suspense
             fallback={

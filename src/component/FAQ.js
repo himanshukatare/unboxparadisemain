@@ -28,7 +28,7 @@ const FAQ = ({ data }) => {
                                 className="w-full text-left px-4 md:px-6 py-4 md:py-5 flex items-center 
                                 justify-between focus:outline-none group"
                             >
-                                <span className="text-base md:text-lg font-semibold text-white pr-4 
+                                <span className="text-base md:text-lg font-semibold text-gray-600 pr-4 
                                 group-hover:text-orange-400 transition-colors">
                                     {item.question}
                                 </span>
@@ -54,7 +54,7 @@ const FAQ = ({ data }) => {
                             >
                                 <div className="px-4 md:px-6 pb-4 md:pb-5 pt-0">
                                     <div className="border-t border-white/20 pt-4">
-                                        <p className="text-sm md:text-base text-white/90 leading-relaxed">
+                                        <p className="text-sm md:text-base text-gray-600 leading-relaxed">
                                             {item.answer}
                                         </p>
                                     </div>
@@ -67,9 +67,8 @@ const FAQ = ({ data }) => {
                 {/* Additional Help Section */}
                 {data.helpText && (
                     <div className="mt-8 md:mt-12 text-center">
-                        <div className="inline-block bg-white/10 backdrop-blur-sm rounded-lg px-6 py-4 
-                        border-l-4 border-orange-500">
-                            <p className="text-white font-medium text-sm md:text-base">
+                        <div className="bg-gradient-to-r from-orange-100 to-pink-100 border-l-4 border-orange-500 rounded-lg p-4 md:p-6">
+                            <p className="text-gray-700 text-sm sm:text-base md:text-lg font-medium">
                                 {data.helpText}
                             </p>
                         </div>

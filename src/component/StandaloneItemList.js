@@ -51,7 +51,7 @@ const StandaloneItemList = ({ data, catalogData }) => {
                 </div>
                 
                 {data.subheading && (
-                    <p className="text-left text-gray-300 text-base md:text-lg">
+                    <p className="text-left text-gray-600 text-base md:text-lg">
                         {data.subheading}
                     </p>
                 )}

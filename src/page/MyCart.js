@@ -135,17 +135,17 @@ const MyCart = () => {
     };
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
+        <div className="min-h-full">
             <main
                 className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative"
-                style={{ background: 'rgb(19,19,24)', paddingTop: '120px', minHeight: 'calc(100vh - 120px)' }}
+                style={{ paddingTop: '120px', minHeight: 'calc(100vh - 120px)' }}
             >
                 <div className="w-full mx-auto px-2 sm:px-4 max-w-[120rem]">
                     <div className="text-center mb-8 md:mb-12">
                         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold gradient-text mb-4">
                             My Cart
                         </h1>
-                        <p className="text-gray-300 text-base md:text-lg max-w-2xl mx-auto">
+                        <p className="text-gray-600 text-base md:text-lg max-w-2xl mx-auto">
                             {hasItems
                                 ? 'Review the products you have selected. You can remove items or continue exploring the catalog for more gifts.'
                                 : 'Your cart is empty right now. Explore our catalog and add the items that catch your eye.'}
@@ -166,8 +166,8 @@ const MyCart = () => {
                     {hasItems ? (
                         <form onSubmit={handleQuoteSubmit} className="space-y-6 md:space-y-8">
                             <div className="rounded-2xl border border-white/10 bg-white/5 p-4 md:p-6 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.55)]">
-                                <p className="text-sm md:text-base text-gray-200 text-center md:text-left">
-                                    <span className="font-semibold text-white">Heads up:</span> increasing quantities gives you more room to negotiate the best pricing in the final quote.
+                                <p className="text-sm md:text-base text-gray-600 text-center md:text-left">
+                                    <span className="font-semibold text-gray-600">Heads up:</span> increasing quantities gives you more room to negotiate the best pricing in the final quote.
                                 </p>
                             </div>
                             <ImportantNote />
@@ -190,7 +190,7 @@ const MyCart = () => {
                                 return (
                                 <div
                                     key={item.id}
-                                    className="flex flex-col lg:flex-row gap-5 lg:gap-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.5)]"
+                                    className="flex flex-col lg:flex-row gap-5 lg:gap-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.5)]" style= {{background: 'rgb(19,19,24)'}}
                                 >
                                     <div className="w-full lg:w-48 h-48 lg:h-32 overflow-hidden rounded-xl bg-gradient-to-br from-orange-50 to-pink-50 flex-shrink-0">
                                         {itemImage ? (
@@ -232,7 +232,7 @@ const MyCart = () => {
                                         </div>
 
                                         {Array.isArray(item.description) && item.description.length > 0 && (
-                                            <ul className="space-y-2 text-sm text-gray-300">
+                                            <ul className="space-y-2 text-sm text-gray-600">
                                                 {item.description.map((point, index) => (
                                                     <li key={index} className="flex items-start gap-2">
                                                         <span className="mt-1 h-1.5 w-1.5 rounded-full bg-gradient-to-r from-orange-500 to-pink-500" />
@@ -244,7 +244,7 @@ const MyCart = () => {
 
                                         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mt-auto">
                                             <div className="flex items-center gap-3">
-                                                <label htmlFor={`quantity-${item.id}`} className="text-sm text-gray-300">
+                                                <label htmlFor={`quantity-${item.id}`} className="text-sm text-gray-600">
                                                     Quantity
                                                 </label>
                                                 <div className="flex items-center gap-2 border border-white/20 rounded-lg bg-white/10 p-1">
@@ -289,16 +289,16 @@ const MyCart = () => {
                                 </div>
                             )})}
 
-                            <div className="rounded-2xl border border-white/10 bg-white/5 p-6 md:p-8 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.55)]">
+                            <div className="rounded-2xl border border-white/10 bg-white/5 p-6 md:p-8 shadow-[0_25px_60px_-45px_rgba(255,255,255,0.55)]" style = {{background: 'rgb(19,19,24)'}}>
                                 <h2 className="text-xl md:text-2xl font-semibold text-white mb-4">
                                     Need a custom quote?
                                 </h2>
-                                <p className="text-sm text-gray-300 mb-4">
+                                <p className="text-sm text-gray-600 mb-4">
                                     Share your preferred contact details and we’ll send you the best deal for your selection.
                                 </p>
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                     <div>
-                                        <label htmlFor="quote-email" className="block text-sm text-gray-300 mb-2">
+                                        <label htmlFor="quote-email" className="block text-sm text-gray-600 mb-2">
                                             Email Address
                                         </label>
                                         <input
@@ -317,7 +317,7 @@ const MyCart = () => {
                                         )}
                                     </div>
                                     <div>
-                                        <label htmlFor="quote-phone" className="block text-sm text-gray-300 mb-2">
+                                        <label htmlFor="quote-phone" className="block text-sm text-gray-600 mb-2">
                                             Phone Number
                                         </label>
                                         <input
@@ -358,7 +358,7 @@ const MyCart = () => {
                             <h2 className="text-2xl md:text-3xl font-semibold text-white mb-4">
                                 Your cart is feeling a little light.
                             </h2>
-                            <p className="text-gray-300 text-base md:text-lg mb-6">
+                            <p className="text-gray-600 text-base md:text-lg mb-6">
                                 Browse our catalog to find the perfect items for your gifting experience.
                             </p>
                             <Link

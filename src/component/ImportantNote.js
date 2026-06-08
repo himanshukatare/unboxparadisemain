@@ -12,15 +12,15 @@ const ImportantNote = () =>{
                         <h3 className="text-base md:text-lg font-bold text-white">Important Information</h3>
                     </div>
                     <ul className="space-y-2 m1-7">
-                        <li className="flex items-start gap-2 text-xs md:text-sm text-gray-300">
+                        <li className="flex items-start gap-2 text-xs md:text-sm text-gray-600">
                             <span className="text-orange-500 font-bold">★</span>
                             <span>All prices are <strong className="text-white">inclusive of GST</strong></span>
                         </li>
-                        <li className="flex items start gap-2 text-xs md:text-sm text-gray-300">
+                        <li className="flex items start gap-2 text-xs md:text-sm text-gray-600">
                             <span className="text-orange-500 font-bold">★</span>
                             <span>Prices shown are based on a <strong className="text-white">minimum order quantity of 50 units</strong></span>
                         </li>
-                        <li className="flex items start gap-2 text-xs md:text-sm text-gray-300">
+                        <li className="flex items start gap-2 text-xs md:text-sm text-gray-600">
                             <span  className="text-orange-500 font-bold">★</span>
                             <span>We don't just deliver <strong className="text-white">we make your distribution easy and hassle-free!</strong></span>
                         </li>

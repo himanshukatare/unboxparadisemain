@@ -91,9 +91,9 @@ const Home = () => {
     }, [location.hash]);
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
-            <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative"
-                style={{ background: 'rgb(19,19,24)', paddingTop: '100px' }}>
+        <div className="min-h-full">
+            <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative bg-theam-color"
+                style={{paddingTop: '100px' }}>
 
                 <Carousel slides={config.carousel} />
                 <ValueForMoneyPacks data={config.valueForMoneyPacks} />
@@ -106,7 +106,7 @@ const Home = () => {
                     <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold gradient-text mb-4">
                         Contact Us
                     </h2>
-                    <p className="text-gray-300 text-base md:text-lg max-w-2xl mx-auto">
+                    <p className="text-gray-600 text-base md:text-lg max-w-2xl mx-auto">
                         Have a question or want to place an order? Fill out the form below and we'll get back to you as soon as possible.
                     </p>
                 </div>

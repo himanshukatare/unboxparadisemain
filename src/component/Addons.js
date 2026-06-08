@@ -42,7 +42,7 @@ const Addons = ({ data, showBrowseButton = true, align = 'left', showAllItems = 
                             {data.heading || 'Add-ons'}
                         </h2>
                         {data.subheading && (
-                            <p className={`text-gray-300 text-base md:text-lg ${align === 'center' ? 'max-w-3xl mx-auto' : 'max-w-3xl'}`}>
+                            <p className={`text-gray-600 text-base md:text-lg ${align === 'center' ? 'max-w-3xl mx-auto' : 'max-w-3xl'}`}>
                                 {data.subheading}
                             </p>
                         )}

@@ -23,9 +23,9 @@ const ProductsServicesPage = () => {
     }, []);
 
     return (
-        <div className="min-h-full" style={{ background: 'rgb(19,19,24)' }}>
+        <div className="min-h-full">
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
-                  style={{ background: 'rgb(19,19,24)', paddingTop: '120px', minHeight: '100vh' }}>
+                  style={{paddingTop: '120px', minHeight: '100vh' }}>
 
                 <ProductsServices data={productsServicesData} />
                 {/* <ValueForMoneyPacks data={valueForMoneyPacksData} /> */}

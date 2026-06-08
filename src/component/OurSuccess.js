@@ -35,7 +35,7 @@ const OurSuccess = ({ data }) => {
                     {data.heading}
                 </h2>
                 {data.subheading && (
-                    <p className="text-center text-gray-300 text-base md:text-lg mb-12">
+                    <p className="text-center text-gray-600 text-base md:text-lg mb-12">
                         {data.subheading}
                     </p>
                 )}
@@ -61,7 +61,7 @@ const OurSuccess = ({ data }) => {
                                 </div>
                                 
                                 {/* Label */}
-                                <div className="text-gray-300 text-base md:text-lg font-medium">
+                                <div className="text-gray-600 text-base md:text-lg font-medium">
                                     {stat.label}
                                 </div>
                             </div>
@@ -76,7 +76,7 @@ const OurSuccess = ({ data }) => {
                     {data.testimonialsHeading}
                 </h2>
                 {data.testimonialsSubheading && (
-                    <p className="text-center text-gray-300 text-base md:text-lg mb-12">
+                    <p className="text-center text-gray-600 text-base md:text-lg mb-12">
                         {data.testimonialsSubheading}
                     </p>
                 )}
@@ -103,7 +103,7 @@ const OurSuccess = ({ data }) => {
                             </div>
 
                             {/* Testimonial Text */}
-                            <p className="text-gray-300 text-sm md:text-base mb-6 leading-relaxed">
+                            <p className="text-gray-600 text-sm md:text-base mb-6 leading-relaxed">
                                 "{testimonial.text}"
                             </p>
 

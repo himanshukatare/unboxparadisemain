@@ -165,7 +165,7 @@ const ProductsServices = ({ data }) => {
             </h2>
             
             {data.subheading && (
-                <p className="text-center text-gray-300 text-base md:text-lg mb-8 px-4 max-w-3xl mx-auto">
+                <p className="text-center text-gray-600 text-base md:text-lg mb-8 px-4 max-w-3xl mx-auto">
                     {data.subheading}
                 </p>
             )}

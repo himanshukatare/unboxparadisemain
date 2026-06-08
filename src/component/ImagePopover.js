@@ -64,7 +64,7 @@ const ImagePopover = ({ images, isOpen, onClose, initialIndex = 0 }) => {
         {/* Close Button */}
         <button
           onClick={onClose}
-          className="absolute -top-12 right-0 text-white hover:text-gray-300 transition-colors"
+          className="absolute -top-12 right-0 text-white hover:text-gray-600 transition-colors"
           aria-label="Close"
         >
           <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
