@@ -1,0 +1,68 @@
+{
+  "heading": "Our Products & Services",
+  "subheading": "Comprehensive gifting solutions tailored for every occasion and need.",
+  "services": [
+    {
+      "id": 1,
+      "title": "Academic & Institutional Kits",
+      "description": "Welcome new students and recognize achievements with our specially curated academic kits designed to create lasting impressions.",
+      "badge": "Popular",
+      "trending": [
+        "Student Joining Kits",
+        "Admission & Welcome Kits",
+        "Academic Event Gifts",
+        "Recognition & Reward Kits"
+      ],
+      "images": [
+        "/resource/catalog_image/UBPBUN003.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Corporate Gifting Solutions",
+      "description": "Elevate your corporate relationships with premium gifting solutions that reflect your brand's values and appreciation.",
+      "image": "/resource/corporategift.webp",
+      "badge": "Best Seller",
+      "trending": [
+        "Employee Onboarding Kits",
+        "Client Appreciation Hampers",
+        "PR (Medical Representative) Gifting",
+        "Acknowledgment & Reward Kits",
+        "Customized Merchandise"
+      ],
+      "images": [
+        "/resource/catalog_image/pns4.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Festive & Personal Gifts",
+      "description": "Celebrate special occasions and festivals with thoughtfully designed gift hampers that bring joy and create memorable moments.",
+      "image": "/resource/top-10-top-20-employee-joining-welcome-kit-ideas-19.webp",
+      "images": [
+        "/resource/catalog_image/pns3.png"
+      ],
+      "trending": [
+        "Diwali, New Year & Festive Hampers",
+        "Birthday Kits",
+        "Personalized & Custom Gifts",
+        "Honorary & Recognition Gifts"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Custom Merchandise",
+      "description": "Build your brand with high-quality customized merchandise perfect for promotions, events, and everyday corporate use.",
+      "image": "/resource/AdobeStock_389324721.jpeg",
+      "trending": [
+        "T-shirts, Mugs, Stationery, Bottles, Badges",
+        "Brand-printed & customized for every occasion",
+        "Bulk orders available",
+        "Quick turnaround time"
+      ],
+      "images": [
+        "/resource/catalog_image/pns1.png"
+      ]
+    }
+  ]
+}

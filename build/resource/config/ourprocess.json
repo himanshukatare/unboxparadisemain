@@ -1,0 +1,45 @@
+{
+  "heading": "Our Process",
+  "steps": [
+    {
+      "id": 1,
+      "number": "1",
+      "icon": "",
+      "title": "Contact Us",
+      "description": "Get in touch via phone, email, WhatsApp, or social media.",
+      "color": "from-orange-500 to-orange-600"
+    },
+    {
+      "id": 2,
+      "number": "2",
+      "icon": "",
+      "title": "Discovery Meeting",
+      "description": "We understand your gifting needs and brand goals.",
+      "color": "from-pink-500 to-pink-600"
+    },
+    {
+      "id": 3,
+      "number": "3",
+      "icon": "",
+      "title": "Agreement",
+      "description": "Finalize design, contents, pricing, and timelines.",
+      "color": "from-purple-500 to-purple-600"
+    },
+    {
+      "id": 4,
+      "number": "4",
+      "icon": "",
+      "title": "Production",
+      "description": "We handle packaging, printing, and branding.",
+      "color": "from-orange-600 to-orange-700"
+    },
+    {
+      "id": 5,
+      "number": "5",
+      "icon": "",
+      "title": "Delivery",
+      "description": "High-quality kits delivered right on time.",
+      "color": "from-pink-600 to-pink-700"
+    }
+  ]
+}

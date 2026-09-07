@@ -1,0 +1,21 @@
+{
+  "short_name": "Unbox Paradise",
+  "name": "Unbox Paradise | Corporate Gifting in Pune & Bhopal",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#131318",
+  "background_color": "#131318"
+}

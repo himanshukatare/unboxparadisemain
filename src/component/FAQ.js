@@ -9,8 +9,27 @@ const FAQ = ({ data }) => {
         setOpenIndex(openIndex === index ? null : index);
     };
 
+    const faqSchema = data.questions && data.questions.length
+        ? {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": data.questions.map(q => ({
+                "@type": "Question",
+                "name": q.question,
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": q.answer
+                }
+            }))
+        }
+        : null;
+
     return (
         <section className="page-section relative z-10 px-4 sm:px-4" id="faq">
+            {faqSchema && (
+                <script type="application/ld+json"
+                    dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+            )}
             <div className="max-w-[120rem] mx-auto">
                 <h2 className="section-heading text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-center gradient-text mb-8 md:mb-12">
                     {data.heading}

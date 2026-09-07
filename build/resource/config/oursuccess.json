@@ -1,0 +1,92 @@
+{
+    "heading": "Our Success Story",
+    "subheading": "Making an impact across India and beyond",
+    "statistics": [
+      {
+        "id": 1,
+        "value": "25+",
+        "label": "States Covered",
+        "icon": "map",
+        "color": "from-orange-500 to-pink-500"
+      },
+      {
+        "id": 2,
+        "value": "5+",
+        "label": "Countries Served",
+        "icon": "globe",
+        "color": "from-orange-400 to-pink-400"
+      },
+      {
+        "id": 3,
+        "value": "5000+",
+        "label": "Successful Deliveries",
+        "icon": "package",
+        "color": "from-orange-500 to-pink-500"
+      }
+    ],
+    "testimonialsHeading": "What People Say About Us",
+    "testimonialsSubheading": "Don't just take our word for it - hear from our satisfied clients",
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Rajesh Kumar",
+        "role": "HR Manager, Tech Solutions Pvt. Ltd.",
+        "company": "Tech Solutions",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "Unbox Paradise transformed our employee onboarding experience! The quality of their welcome kits is outstanding, and our new hires absolutely love them. The customization options allowed us to perfectly align with our brand identity.",
+        "location": "Mumbai, Maharashtra"
+      },
+      {
+        "id": 2,
+        "name": "Priya Sharma",
+        "role": "Operations Head, StartUp Inc.",
+        "company": "StartUp Inc.",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "Working with Unbox Paradise has been a game-changer. Their attention to detail and commitment to quality is unmatched. We've ordered multiple times, and each delivery has been perfect. Highly recommended!",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "id": 3,
+        "name": "Amit Patel",
+        "role": "Founder & CEO, Digital Ventures",
+        "company": "Digital Ventures",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "The team at Unbox Paradise is incredibly professional and responsive. They helped us create custom corporate gifts that perfectly represented our brand. Our clients were thrilled with the thoughtful packaging and quality products.",
+        "location": "Ahmedabad, Gujarat"
+      },
+      {
+        "id": 4,
+        "name": "Sneha Reddy",
+        "role": "Marketing Director, Global Corp",
+        "company": "Global Corp",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "We needed welcome kits delivered across multiple states, and Unbox Paradise handled everything seamlessly. Their logistics team is top-notch, and the quality control is exceptional. Worth every penny!",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "id": 5,
+        "name": "Vikram Singh",
+        "role": "People & Culture Lead, Enterprise Solutions",
+        "company": "Enterprise Solutions",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "Exceptional service from start to finish! The welcome kits arrived on time, beautifully packaged, and exactly as we specified. Our employees feel valued from day one thanks to Unbox Paradise.",
+        "location": "Delhi NCR"
+      },
+      {
+        "id": 6,
+        "name": "Meera Iyer",
+        "role": "HR Business Partner, Financial Services Ltd.",
+        "company": "Financial Services",
+        "image": "/resource/logo.png",
+        "rating": 5,
+        "text": "Unbox Paradise understands the importance of first impressions. Their curated welcome kits have elevated our onboarding process significantly. The quality, presentation, and timely delivery are consistently excellent.",
+        "location": "Chennai, Tamil Nadu"
+      }
+    ]
+  }
+  

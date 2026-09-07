@@ -1,0 +1,68 @@
+{
+  "logo": {
+    "src": "/resource/logo.png",
+    "alt": "Unbox Paradise Logo"
+  },
+  "tagline": "We don't just deliver products – we deliver joy.",
+  "contact": null,
+  "navigation": [
+    {
+      "id": 1,
+      "label": "Home",
+      "href": "/",
+      "showOnMobile": true
+    },
+    {
+      "id": 5,
+      "label": "Our Products & Services",
+      "href": "/products-services",
+      "showOnMobile": false
+    },
+    {
+      "id": 3,
+      "label": "Product Catalog",
+      "href": "/catalog",
+      "showOnMobile": false
+    },
+    {
+      "id": 4,
+      "label": "Bundled Packs",
+      "href": "/bundled-packs",
+      "showOnMobile": false
+    },
+    {
+      
+      "id": 2,
+      "label": "About Us",
+      "href": "/about-us",
+      "showOnMobile": false,
+      "children": [
+        {
+          "id": "about-organization",
+          "label": "About Our Organization",
+          "href": "/about-us"
+        },
+        {
+          "id": "our-process",
+          "label": "Our Process",
+          "href": "/our-process"
+        },
+        {
+          "id": "what-makes-us-special",
+          "label": "What Makes Us Special",
+          "href": "/what-makes-us-special"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "label": "Contact Us",
+      "href": "/contact",
+      "showOnMobile": false
+    }
+  ],
+  "ctaButton": {
+    "label": "Get a Quote",
+    "url": "/contact"
+  }
+}
