@@ -40,6 +40,14 @@ const PAGE_META = {
         title: 'Contact Unbox Paradise | Get a Corporate Gifting Quote',
         description: 'Contact Unbox Paradise for corporate gifting quotes in Pune and Bhopal. Call +91 96309 82265, WhatsApp us, or send your bulk gift requirements for a fast, free proposal.'
     },
+    '/corporate-gifting-pune': {
+        title: 'Corporate Gifting Company in Pune | Diwali Hampers & Welcome Kits',
+        description: 'Unbox Paradise is a corporate gifting company in Pune offering employee welcome kits, Diwali hampers, academic & edtech kits and custom merchandise with bulk pricing and PAN-India delivery.'
+    },
+    '/corporate-gifting-bhopal': {
+        title: 'Corporate Gifting Company in Bhopal | Diwali Hampers & Welcome Kits',
+        description: 'Unbox Paradise is a corporate gifting company in Bhopal offering employee welcome kits, Diwali hampers, academic & institutional kits and custom merchandise with bulk pricing across Madhya Pradesh.'
+    },
     '/my-cart': {
         title: 'My Cart | Unbox Paradise',
         description: 'Review the corporate gifts and kits in your cart before requesting a bulk quote from Unbox Paradise.',

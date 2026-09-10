@@ -51,6 +51,16 @@
           "id": "what-makes-us-special",
           "label": "What Makes Us Special",
           "href": "/what-makes-us-special"
+        },
+        {
+          "id": "loc-pune",
+          "label": "Corporate Gifting in Pune",
+          "href": "/corporate-gifting-pune"
+        },
+        {
+          "id": "loc-bhopal",
+          "label": "Corporate Gifting in Bhopal",
+          "href": "/corporate-gifting-bhopal"
         }
       ]
     },

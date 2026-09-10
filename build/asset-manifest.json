@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7369661a.css",
-    "main.js": "/static/js/main.cfcbb8e1.js",
+    "main.css": "/static/css/main.611c3313.css",
+    "main.js": "/static/js/main.ba248644.js",
     "static/js/448.2497e68a.chunk.js": "/static/js/448.2497e68a.chunk.js",
     "static/js/49.62025cf2.chunk.js": "/static/js/49.62025cf2.chunk.js",
     "static/js/765.25c4676e.chunk.js": "/static/js/765.25c4676e.chunk.js",
@@ -12,11 +12,12 @@
     "static/js/383.2a2b30f6.chunk.js": "/static/js/383.2a2b30f6.chunk.js",
     "static/js/364.452bbaa0.chunk.js": "/static/js/364.452bbaa0.chunk.js",
     "static/js/483.5e16f9d0.chunk.js": "/static/js/483.5e16f9d0.chunk.js",
+    "static/js/592.4e058992.chunk.js": "/static/js/592.4e058992.chunk.js",
     "static/js/847.5ee9172c.chunk.js": "/static/js/847.5ee9172c.chunk.js",
     "static/js/497.e2ad96cc.chunk.js": "/static/js/497.e2ad96cc.chunk.js",
     "index.html": "/index.html",
-    "main.7369661a.css.map": "/static/css/main.7369661a.css.map",
-    "main.cfcbb8e1.js.map": "/static/js/main.cfcbb8e1.js.map",
+    "main.611c3313.css.map": "/static/css/main.611c3313.css.map",
+    "main.ba248644.js.map": "/static/js/main.ba248644.js.map",
     "448.2497e68a.chunk.js.map": "/static/js/448.2497e68a.chunk.js.map",
     "49.62025cf2.chunk.js.map": "/static/js/49.62025cf2.chunk.js.map",
     "765.25c4676e.chunk.js.map": "/static/js/765.25c4676e.chunk.js.map",
@@ -27,11 +28,12 @@
     "383.2a2b30f6.chunk.js.map": "/static/js/383.2a2b30f6.chunk.js.map",
     "364.452bbaa0.chunk.js.map": "/static/js/364.452bbaa0.chunk.js.map",
     "483.5e16f9d0.chunk.js.map": "/static/js/483.5e16f9d0.chunk.js.map",
+    "592.4e058992.chunk.js.map": "/static/js/592.4e058992.chunk.js.map",
     "847.5ee9172c.chunk.js.map": "/static/js/847.5ee9172c.chunk.js.map",
     "497.e2ad96cc.chunk.js.map": "/static/js/497.e2ad96cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7369661a.css",
-    "static/js/main.cfcbb8e1.js"
+    "static/css/main.611c3313.css",
+    "static/js/main.ba248644.js"
   ]
 }

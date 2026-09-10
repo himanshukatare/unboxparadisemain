@@ -60,6 +60,16 @@ const Footer = ({ data }) => {
                 </a>
                 )}
                 
+                {/* Location Links - Local SEO */}
+                <div className="mt-2 mb-2">
+                    <Link to="/corporate-gifting-pune" className="text-white hover:underline text-sm mr-4">
+                        Corporate Gifting in Pune
+                    </Link>
+                    <Link to="/corporate-gifting-bhopal" className="text-white hover:underline text-sm">
+                        Corporate Gifting in Bhopal
+                    </Link>
+                </div>
+
                 {/* Blog Links - SEO (use client-side navigation to avoid server 404 on refresh) */}
                 <div className="mt-2 mb-2">
                     <Link to="/blogs/blog-list" className="text-white hover:underline text-sm mr-4">

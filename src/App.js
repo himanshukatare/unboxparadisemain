@@ -17,6 +17,7 @@ const MyCart = lazy(() => import('./page/MyCart'));
 const OurProcessPage = lazy(() => import('./page/OurProcessPage'));
 const BundledPackPage = lazy(() => import('./page/BundledPackPage'));
 const BlogPage = lazy(() => import('./page/BlogPage'));
+const CityGiftingPage = lazy(() => import('./page/CityGiftingPage'));
 
 function ScrollToTop() {
   const { pathname, hash } = useLocation();
@@ -73,6 +74,8 @@ function App() {
               <Route path="/bundled-packs" element={<BundledPackPage />} />
               <Route path="/contact-us" element={<ContactUsPage />} />
               <Route path="/contact" element={<ContactUsPage />} />
+              <Route path="/corporate-gifting-pune" element={<CityGiftingPage cityKey="pune" />} />
+              <Route path="/corporate-gifting-bhopal" element={<CityGiftingPage cityKey="bhopal" />} />
               <Route path="/my-cart" element={<MyCart />} />
               <Route path="/blogs/:slug" element={<BlogPage />} />
             </Routes>
