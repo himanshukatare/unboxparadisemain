@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
+import { CATEGORY_META } from '../data/catalogCategories';
 
 const SITE = 'https://www.unboxparadise.com';
 
@@ -116,6 +117,16 @@ const resolveMeta = (pathname) => {
         const slug = pathname.replace(/^\/blogs\//, '').replace(/\/+$/, '');
         const meta = BLOG_META[slug] || { title: 'Blogs | Unbox Paradise', description: DEFAULT_META.description };
         return { meta, canonical: `${SITE}/blogs/${slug}` };
+    }
+    if (pathname.startsWith('/catalog/')) {
+        const categoryId = pathname.replace(/^\/catalog\//, '').replace(/\/+$/, '');
+        const category = CATEGORY_META[categoryId];
+        if (category) {
+            return {
+                meta: { title: `${category.title} | Unbox Paradise`, description: category.description },
+                canonical: `${SITE}/catalog/${categoryId}`
+            };
+        }
     }
     if (PAGE_META[pathname]) {
         return { meta: PAGE_META[pathname], canonical: `${SITE}${pathname}` };

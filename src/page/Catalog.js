@@ -329,6 +329,21 @@ const Catalog = () => {
                             </select>
                         </div>
                     )}
+
+                    {/* Category Page Links */}
+                    {categories.length > 0 && (
+                        <div className="mt-6 flex flex-wrap items-center justify-center gap-2">
+                            {categories.map((category) => (
+                                <Link
+                                    key={`page-${category.id}`}
+                                    to={`/catalog/${category.id}`}
+                                    className="rounded-full border border-gray-200 bg-white px-3.5 py-1.5 text-xs sm:text-sm font-medium text-gray-700 shadow-sm hover:border-pink-400 hover:text-pink-600 transition-colors"
+                                >
+                                    {category.name}
+                                </Link>
+                            ))}
+                        </div>
+                    )}
                 </div>
 
                 {/* Categories / Search Results */}
