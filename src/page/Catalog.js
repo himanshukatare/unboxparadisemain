@@ -246,6 +246,8 @@ const Catalog = () => {
                                                         <img
                                                             src={item.image || (Array.isArray(item.images) ? item.images[0] : '')}
                                                             alt={item.name}
+                                                            loading="lazy"
+                                                            decoding="async"
                                                             className="w-full h-full object-cover"
                                                         />
                                                     ) : (

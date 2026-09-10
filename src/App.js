@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { useEffect } from 'react';
 import Header from './component/Header';
 import Footer from './component/Footer';
+import PageMeta from './component/PageMeta';
 import { CartProvider } from './context/CartContext';
 import './styles.css';
 
@@ -49,6 +50,7 @@ function App() {
 
   return (
     <Router>
+      <PageMeta />
       <ScrollToTop />
       <CartProvider>
         <div className="min-h-full">

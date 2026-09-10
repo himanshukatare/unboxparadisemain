@@ -41,6 +41,8 @@ const ServiceCard = ({ service }) => {
                             <img 
                                 src={images[currentImage]} 
                                 alt={service.title}
+                                loading="lazy"
+                                decoding="async"
                                 className="transition-transform duration-300 group-hover:scale-105"
                             />
                             
@@ -150,6 +152,7 @@ const ServiceCard = ({ service }) => {
                 isOpen={isImagePopoverOpen}
                 onClose={() => setIsImagePopoverOpen(false)}
                 initialIndex={currentImage}
+                alt={service.title}
             />
         </>
     );

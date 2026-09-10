@@ -136,8 +136,16 @@ const RegisterUserInquiry = ({ contactDetails }) => {
         };
 
         const fallbackAddress = {
-            lines: ['Unbox Paradise', 'Indore, Madhya Pradesh', 'India']
+            lines: ['Unbox Paradise', 'E/26, New Minal Residency, Bhopal', 'Madhya Pradesh 462023, India']
         };
+
+        const fallbackOffices = [
+            {
+                city: 'Bhopal',
+                tag: 'Head Office',
+                lines: ['LIG- 1 Minal Fession Street', 'Bhopal, Madhya Pradesh 462023', 'India']
+            }
+        ];
 
         const fallbackSocial = {
             instagram: { handle: '@unboxparadise', url: 'https://instagram.com/unboxparadise' },
@@ -148,9 +156,11 @@ const RegisterUserInquiry = ({ contactDetails }) => {
 
         return {
             phone: contactDetails?.phone || fallbackPhone,
+            phoneSecondary: contactDetails?.phoneSecondary || null,
             whatsapp: contactDetails?.whatsapp || fallbackWhatsapp,
             email: contactDetails?.email || fallbackEmail,
             address: contactDetails?.address || fallbackAddress,
+            offices: contactDetails?.offices || fallbackOffices,
             social: contactDetails?.social || fallbackSocial
         };
     }, [contactDetails]);
@@ -247,6 +257,14 @@ const RegisterUserInquiry = ({ contactDetails }) => {
                                         >
                                             {contactInfo.phone.display}
                                         </a>
+                                        {contactInfo.phoneSecondary && (
+                                            <a
+                                                href={contactInfo.phoneSecondary.link}
+                                                className="block text-xs font-medium text-white/70 hover:text-orange-200 transition-colors mt-0.5"
+                                            >
+                                                Alt: {contactInfo.phoneSecondary.display}
+                                            </a>
+                                        )}
                                     </div>
                                     
                                     <div className="rounded-lg border border-white/20 bg-white/10 p-3">
@@ -283,6 +301,29 @@ const RegisterUserInquiry = ({ contactDetails }) => {
                                             </svg>
                                         </a>
                                     </div>
+
+                                    {contactInfo.offices && contactInfo.offices.length > 0 && (
+                                        <div className="rounded-lg border border-white/20 bg-white/10 p-3 col-span-2">
+                                            <div className="flex items-center gap-2 mb-1.5">
+                                                <svg className="w-4 h-4 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1112 6.5a2.5 2.5 0 010 5z" />
+                                                </svg>
+                                                <p className="text-[10px] uppercase tracking-wide text-gray-100/70 font-semibold">Our Offices</p>
+                                            </div>
+                                            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                                                {contactInfo.offices.map((office) => (
+                                                    <div key={office.city}>
+                                                        <p className="text-xs font-bold text-white">
+                                                            {office.tag && `${office.tag} - `}{office.city}
+                                                        </p>
+                                                        {office.lines.map((line) => (
+                                                            <p key={line} className="text-xs text-gray-100/70 leading-snug">{line}</p>
+                                                        ))}
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    )}
                                 </div>
 
                                 {/* Follow Us - Social Media */}

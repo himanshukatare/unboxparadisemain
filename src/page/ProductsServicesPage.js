@@ -27,6 +27,7 @@ const ProductsServicesPage = () => {
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
                   style={{paddingTop: '120px', minHeight: '100vh' }}>
 
+                <h1 className="sr-only">Our Products & Services | Corporate, Academic & Festive Gifting</h1>
                 <ProductsServices data={productsServicesData} />
                 {/* <ValueForMoneyPacks data={valueForMoneyPacksData} /> */}
             </main>

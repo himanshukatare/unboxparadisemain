@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const ImagePopover = ({ images, isOpen, onClose, initialIndex = 0 }) => {
+const ImagePopover = ({ images, isOpen, onClose, initialIndex = 0, alt }) => {
   const [currentIndex, setCurrentIndex] = useState(initialIndex);
 
   // reset index when initialIndex or isOpen changes
@@ -78,7 +78,8 @@ const ImagePopover = ({ images, isOpen, onClose, initialIndex = 0 }) => {
           <div className="relative aspect-video bg-gray-100 flex items-center justify-center">
             <img
               src={images[currentIndex]}
-              alt={`Image ${currentIndex + 1}`}
+              alt={images.length > 1 ? `${alt || 'Unbox Paradise product'} (${currentIndex + 1} of ${images.length})` : (alt || 'Unbox Paradise product')}
+              decoding="async"
               className="w-full h-full object-contain"
             />
 

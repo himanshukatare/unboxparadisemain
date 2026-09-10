@@ -67,6 +67,8 @@ const ItemDetails = ({ item, hideExpandIcon = false }) => {
                             <img
                                 src={images[currentImage]}
                                 alt={item.name}
+                                loading="lazy"
+                                decoding="async"
                                 className="transition-transform duration-300 group-hover:scale-105"
                             />
                             
@@ -238,6 +240,7 @@ const ItemDetails = ({ item, hideExpandIcon = false }) => {
             isOpen={isImagePopoverOpen}
             onClose={() => setIsImagePopoverOpen(false)}
             initialIndex={currentImage}
+            alt={item.name}
         />
         </>
     );

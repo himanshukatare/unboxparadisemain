@@ -38,7 +38,14 @@ const Carousel = ({ slides = [] }) => {
                         {slides.map((slide, index) => (
                             <div key={index} className={`carousel-slide ${index === currentSlide ? 'active' : ''}`}>
                                 <div className="carousel-slide-content">
-                                    <img src={slide.image} alt={slide.alt} className="absolute inset-0 w-full h-full object-cover" />
+                                    <img
+                                        src={slide.image}
+                                        alt={slide.alt || `Unbox Paradise corporate gifting - ${slide.title || 'gift hampers'}`}
+                                        className="absolute inset-0 w-full h-full object-cover"
+                                        loading={index === 0 ? 'eager' : 'lazy'}
+                                        fetchPriority={index === 0 ? 'high' : 'auto'}
+                                        decoding="async"
+                                    />
                                     {/* <div className="relative z-10 w-full h-full flex flex-col justify-center items-center 
                                     text-center px-4">
                                         <div className="w-24 h-24 md:w-32 md:h-32 

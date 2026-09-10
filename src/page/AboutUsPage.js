@@ -33,6 +33,7 @@ const AboutUsPage = () => {
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative" 
                   style={{ paddingTop: '120px', minHeight: '100vh' }}>
 
+                <h1 className="sr-only">About Unbox Paradise | Corporate Gifting Company in Pune & Bhopal</h1>
                 <AboutUs data={aboutUsData} />
                 <OurSuccess data={successData} />
             </main>

@@ -30,6 +30,7 @@ const WhyChooseUs = ({ data }) => {
                                             alt={reason.title}
                                             className="w-16 h-16 md:w-20 md:h-20 object-contain"
                                             loading="lazy"
+                                            decoding="async"
                                         />
                                     ) : (
                                         <span className="text-3xl md:text-4xl text-white">{reason.icon}</span>

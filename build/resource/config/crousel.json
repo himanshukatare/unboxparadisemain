@@ -3,7 +3,7 @@
     {
       "id": 0,
       "image": "/resource/catalog_image/banner_main.png",
-      "alt": "Welcome Kits",
+      "alt": "Corporate gift hampers and employee welcome kits by Unbox Paradise",
       "icon": "🎁",
       "title": "Premium Gift Boxes",
       "description": "Experience the joy of beautifully curated and elegantly packaged gift boxes that create unforgettable unboxing moments.",
@@ -12,7 +12,7 @@
     {
       "id": 4,
       "image": "/resource/catalog_image/banner_festive.jpeg",
-      "alt": "Welcome Kits",
+      "alt": "Diwali and festive corporate gift hampers by Unbox Paradise",
       "icon": "🎁",
       "title": "Premium Gift Boxes",
       "description": "Experience the joy of beautifully curated and elegantly packaged gift boxes that create unforgettable unboxing moments.",
@@ -21,7 +21,7 @@
     {
       "id": 1,
       "image": "/resource/catalog_image/banner_1.png",
-      "alt": "Welcome Kits",
+      "alt": "Customized employee welcome kits and corporate gifts by Unbox Paradise",
       "icon": "🎁",
       "title": "Premium Gift Boxes",
       "description": "Experience the joy of beautifully curated and elegantly packaged gift boxes that create unforgettable unboxing moments.",
@@ -30,13 +30,14 @@
     {
       "id": 2,
       "image": "/resource/catalog_image/banner_2.png",
+      "alt": "Corporate gifting solutions and branded merchandise by Unbox Paradise",
       "title": "Corporate Solutions",
       "gradient": "from-white via-pink-100 to-purple-100"
     },
     {
       "id": 3,
       "image": "/resource/catalog_image/banner_3.png",
-      "alt": "Welcome Kits",
+      "alt": "Personalized corporate gifts and premium packaging by Unbox Paradise",
       "icon": "✨",
       "title": "Customized Excellence",
       "description": "Personalized designs, premium quality, and swift delivery - everything you need to make every occasion special.",

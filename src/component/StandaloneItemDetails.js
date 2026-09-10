@@ -69,6 +69,8 @@ const StandaloneItemDetails = ({
                             <img
                                 src={images[currentImage]}
                                 alt={item.name}
+                                loading="lazy"
+                                decoding="async"
                                 className="transition-transform duration-300 group-hover:scale-105"
                             />
                             {images.length > 1 && (
@@ -239,6 +241,7 @@ const StandaloneItemDetails = ({
                 isOpen={isPopoverOpen}
                 onClose={() => setIsPopoverOpen(false)}
                 initialIndex={currentImage}
+                alt={item.name}
             />
         </>
     );

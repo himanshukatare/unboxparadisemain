@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+  <link rel="preconnect" href="https://www.google-analytics.com" />
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZBWRR2J2KG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -29,6 +32,7 @@
   <meta name="description"
     content="Premium corporate gifting, Diwali hampers, employee welcome kits and academic & edtech kits in Pune and Bhopal. Bulk customization with PAN-India delivery by Unbox Paradise." />
   <link rel="canonical" href="https://www.unboxparadise.com/" />
+  <link rel="preload" as="image" href="/resource/catalog_image/banner_main.png" fetchpriority="high" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
@@ -64,12 +68,19 @@
         "https://facebook.com/unboxparadise",
         "https://linkedin.com/company/unboxparadise"
       ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96309-82265",
-        "contactType": "sales",
-        "email": "connect@unboxparadise.com"
-      }
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+91-96309-82265",
+          "contactType": "sales",
+          "email": "connect@unboxparadise.com"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+91-89625-77745",
+          "contactType": "sales"
+        }
+      ]
     }
   </script>
 </head>

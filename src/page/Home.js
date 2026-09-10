@@ -8,6 +8,7 @@ import FAQ from '../component/FAQ';
 import RegisterUserInquiry from '../component/RegisterUserInquiry';
 import Addons from '../component/Addons';
 import ImportantNote from '../component/ImportantNote';
+import BusinessSchema from '../component/BusinessSchema';
 import useContactDetails from '../hooks/useContactDetails';
 
 const Home = () => {
@@ -95,6 +96,8 @@ const Home = () => {
             <main className="w-full mx-auto px-4 md:px-8 lg:px-12 xl:px-16 pt-3 relative bg-theam-color"
                 style={{paddingTop: '100px' }}>
 
+                <h1 className="sr-only">Corporate Gifting, Diwali Hampers & Welcome Kits in Pune & Bhopal | Unbox Paradise</h1>
+                <BusinessSchema contactDetails={contactDetails} />
                 <Carousel slides={config.carousel} />
                 <ValueForMoneyPacks data={config.valueForMoneyPacks} />
                 <BundledPacks data={config.bundledPacks} hideExpandIcon={true}/>
