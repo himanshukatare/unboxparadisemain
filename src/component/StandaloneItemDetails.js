@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
+import { Link } from 'react-router-dom';
 import ImagePopover from './ImagePopover';
 
 const StandaloneItemDetails = ({
@@ -6,7 +7,8 @@ const StandaloneItemDetails = ({
     onToggle,
     isSelected = false,
     addLabel = 'Add to cart',
-    removeLabel = 'Remove'
+    removeLabel = 'Remove',
+    detailsHref
 }) => {
     const itemData = item ?? {};
 
@@ -66,13 +68,25 @@ const StandaloneItemDetails = ({
                 <div className="relative image-container-aspect flex-shrink-0">
                     {images.length > 0 ? (
                         <>
-                            <img
-                                src={images[currentImage]}
-                                alt={item.name}
-                                loading="lazy"
-                                decoding="async"
-                                className="transition-transform duration-300 group-hover:scale-105"
-                            />
+                            {detailsHref ? (
+                                <Link to={detailsHref} aria-label={item.name}>
+                                    <img
+                                        src={images[currentImage]}
+                                        alt={item.name}
+                                        loading="lazy"
+                                        decoding="async"
+                                        className="transition-transform duration-300 group-hover:scale-105"
+                                    />
+                                </Link>
+                            ) : (
+                                <img
+                                    src={images[currentImage]}
+                                    alt={item.name}
+                                    loading="lazy"
+                                    decoding="async"
+                                    className="transition-transform duration-300 group-hover:scale-105"
+                                />
+                            )}
                             {images.length > 1 && (
                                 <>
                                     <button
@@ -136,7 +150,13 @@ const StandaloneItemDetails = ({
                 {/* Product Info */}
                 <div className="p-2.5 md:p-3 flex flex-col flex-grow">
                     <h3 className="text-sm md:text-base font-bold text-gray-800 mb-1 line-clamp-2">
-                        {item.name}
+                        {detailsHref ? (
+                            <Link to={detailsHref} className="hover:text-orange-500 transition-colors">
+                                {item.name}
+                            </Link>
+                        ) : (
+                            item.name
+                        )}
                     </h3>
                     {item.id && (
                         <p className="text-[9px] font-semibold tracking-wide text-orange-500 mb-1.5 uppercase">

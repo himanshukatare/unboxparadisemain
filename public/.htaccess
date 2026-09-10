@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Canonical host: force www.unboxparadise.com (301)
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.unboxparadise.com/$1 [R=301,L]
+
+# Serve pre-rendered static HTML when available (keeps the clean URL)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/prerender/$1.html -f
+RewriteRule ^(.+?)/?$ /prerender/$1.html [L]
+
+# Fallback: send all other requests to index.html (React Router)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]

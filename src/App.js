@@ -13,6 +13,7 @@ const ProductsServicesPage = lazy(() => import('./page/ProductsServicesPage'));
 const WhatMakesUsSpecialPage = lazy(() => import('./page/WhatMakesUsSpecialPage'));
 const Catalog = lazy(() => import('./page/Catalog'));
 const CategoryPage = lazy(() => import('./page/CategoryPage'));
+const ProductPage = lazy(() => import('./page/ProductPage'));
 const ContactUsPage = lazy(() => import('./page/ContactUsPage'));
 const MyCart = lazy(() => import('./page/MyCart'));
 const OurProcessPage = lazy(() => import('./page/OurProcessPage'));
@@ -73,6 +74,7 @@ function App() {
               <Route path="/what-makes-us-special" element={<WhatMakesUsSpecialPage />} />
               <Route path="/catalog" element={<Catalog />} />
               <Route path="/catalog/:categoryId" element={<CategoryPage />} />
+              <Route path="/catalog/:categoryId/:productSlug" element={<ProductPage />} />
               <Route path="/bundled-packs" element={<BundledPackPage />} />
               <Route path="/contact-us" element={<ContactUsPage />} />
               <Route path="/contact" element={<ContactUsPage />} />

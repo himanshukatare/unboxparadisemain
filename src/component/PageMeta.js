@@ -100,7 +100,7 @@ const upsertCanonical = (href) => {
     el.setAttribute('href', href);
 };
 
-const applyMeta = (meta, canonical) => {
+export const applyMeta = (meta, canonical) => {
     document.title = meta.title;
     upsertMeta('name', 'description', meta.description);
     upsertMeta('name', 'robots', meta.noindex ? 'noindex, nofollow' : 'index, follow');
@@ -119,12 +119,22 @@ const resolveMeta = (pathname) => {
         return { meta, canonical: `${SITE}/blogs/${slug}` };
     }
     if (pathname.startsWith('/catalog/')) {
-        const categoryId = pathname.replace(/^\/catalog\//, '').replace(/\/+$/, '');
-        const category = CATEGORY_META[categoryId];
-        if (category) {
+        const segments = pathname.replace(/^\/catalog\//, '').replace(/\/+$/, '').split('/');
+        const category = CATEGORY_META[segments[0]];
+        if (category && segments.length === 1) {
             return {
                 meta: { title: `${category.title} | Unbox Paradise`, description: category.description },
-                canonical: `${SITE}/catalog/${categoryId}`
+                canonical: `${SITE}/catalog/${segments[0]}`
+            };
+        }
+        if (segments.length === 2) {
+            const humanized = segments[1]
+                .split('-')
+                .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+                .join(' ');
+            return {
+                meta: { title: `${humanized} | Unbox Paradise`, description: DEFAULT_META.description },
+                canonical: `${SITE}${pathname}`
             };
         }
     }

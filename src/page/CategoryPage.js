@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import StandaloneItemDetails from '../component/StandaloneItemDetails';
 import ImportantNote from '../component/ImportantNote';
 import { useCart } from '../context/CartContext';
 import { CATEGORY_META } from '../data/catalogCategories';
+import { buildProductIndex, productPath } from '../utils/catalog';
 
 const SITE = 'https://www.unboxparadise.com';
 
@@ -18,6 +19,8 @@ const CategoryPage = () => {
             .then((data) => setCatalogData(data))
             .catch((error) => console.error('Error loading catalog data:', error));
     }, []);
+
+    const index = useMemo(() => buildProductIndex(catalogData?.categories || []), [catalogData]);
 
     if (!catalogData) return null;
 
@@ -124,6 +127,7 @@ const CategoryPage = () => {
                                 item={itemWithId}
                                 onToggle={toggleItem}
                                 isSelected={isInCart(itemWithId.id)}
+                                detailsHref={productPath(index, category.id, itemWithId)}
                             />
                         );
                     })}

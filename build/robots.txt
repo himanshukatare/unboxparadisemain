@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /prerender/
 
 Sitemap: https://www.unboxparadise.com/sitemap.xml

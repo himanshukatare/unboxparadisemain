@@ -1,8 +1,9 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import StandaloneItemDetails from '../component/StandaloneItemDetails';
 import ImportantNote from '../component/ImportantNote';
 import { useCart } from '../context/CartContext';
+import { buildProductIndex, productPath } from '../utils/catalog';
 
 const Catalog = () => {
     const [catalogData, setCatalogData] = useState(null);
@@ -124,6 +125,8 @@ const Catalog = () => {
 
         fetchConfig();
     }, []);
+
+    const productIndex = useMemo(() => buildProductIndex(catalogData?.categories || []), [catalogData]);
 
     if (!catalogData) return null;
 
@@ -373,6 +376,7 @@ const Catalog = () => {
                                                 item={itemWithId}
                                                 onToggle={toggleItem}
                                                 isSelected={isInCart(itemWithId.id)}
+                                                detailsHref={productPath(productIndex, category.id, itemWithId)}
                                             />
                                         );
                                     })}
