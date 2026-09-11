@@ -56,7 +56,7 @@ const PAGE_META = {
     }
 };
 
-const BLOG_META = {
+export const BLOG_META = {
     'blog-list': {
         title: 'Blogs on Corporate Gifting & Gift Kits | Unbox Paradise',
         description: 'Insights and guides from Unbox Paradise on corporate gifting, Diwali hampers, employee welcome kits and more.'
@@ -72,6 +72,22 @@ const BLOG_META = {
     'employee-onboarding-kits-2026': {
         title: 'Employee Onboarding Kits 2026: The Welcome Kit Playbook | Unbox Paradise',
         description: 'A complete playbook for HR teams on employee onboarding kits 2026: welcome kit checklist, trends and corporate gifting ideas.'
+    },
+    'diwali-corporate-gifting-ideas-2026': {
+        title: 'Diwali Corporate Gifting Ideas 2026: Hampers for Employees & Clients | Unbox Paradise',
+        description: 'Best Diwali corporate gifting ideas for 2026 — festive hampers, personalized gifts and bulk Diwali gifts for employees and clients.'
+    },
+    'employee-onboarding-kit-ideas': {
+        title: 'Employee Onboarding Kit Ideas: What to Include in a New Hire Welcome Kit',
+        description: 'Employee onboarding kit ideas and a new hire welcome kit checklist — branded merchandise, stationery, tech and budget options.'
+    },
+    'academic-and-edtech-kits-guide': {
+        title: 'Academic & EdTech Kits Guide: Student Joining & Welcome Kit Ideas',
+        description: 'What to include in academic kits and edtech welcome kits — student joining kits, admission kits and training institute kits.'
+    },
+    'corporate-gifting-in-pune-bhopal': {
+        title: 'Corporate Gifting Company in Pune & Bhopal: How to Choose the Right Partner',
+        description: 'How to choose a corporate gifting company in Pune or Bhopal — bulk gifting, customization, lead times and local support.'
     }
 };
 

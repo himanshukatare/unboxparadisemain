@@ -26,7 +26,11 @@ const STATIC_PATHS = [
     '/blogs/blog-list',
     '/blogs/corporate-gifting-seo',
     '/blogs/employee-onboarding-welcome-kits-2026',
-    '/blogs/employee-onboarding-kits-2026'
+    '/blogs/employee-onboarding-kits-2026',
+    '/blogs/diwali-corporate-gifting-ideas-2026',
+    '/blogs/employee-onboarding-kit-ideas',
+    '/blogs/academic-and-edtech-kits-guide',
+    '/blogs/corporate-gifting-in-pune-bhopal'
 ];
 
 const catalog = JSON.parse(fs.readFileSync(CATALOG, 'utf8'));

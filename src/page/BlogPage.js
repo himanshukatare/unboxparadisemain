@@ -1,5 +1,18 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
+import { BLOG_META } from '../component/PageMeta';
+
+const SITE = 'https://www.unboxparadise.com';
+
+const BLOG_DATES = {
+  'corporate-gifting-seo': '2025-12-02',
+  'employee-onboarding-welcome-kits-2026': '2026-01-12',
+  'employee-onboarding-kits-2026': '2026-01-12',
+  'diwali-corporate-gifting-ideas-2026': '2026-09-05',
+  'employee-onboarding-kit-ideas': '2026-08-28',
+  'academic-and-edtech-kits-guide': '2026-08-20',
+  'corporate-gifting-in-pune-bhopal': '2026-09-10'
+};
 
 const BlogPage = () => {
   const { slug } = useParams();
@@ -60,8 +73,28 @@ const BlogPage = () => {
     );
   }
 
+  const meta = BLOG_META[slug] || null;
+  const articleSchema = meta ? {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    'headline': meta.title.replace(/\s*\|\s*Unbox Paradise$/, ''),
+    'description': meta.description,
+    'author': { '@type': 'Organization', 'name': 'Unbox Paradise' },
+    'publisher': {
+      '@type': 'Organization',
+      'name': 'Unbox Paradise',
+      'logo': { '@type': 'ImageObject', 'url': `${SITE}/resource/logo.png` }
+    },
+    'datePublished': BLOG_DATES[slug] || '2026-01-01',
+    'url': `${SITE}/blogs/${slug}`
+  } : null;
+
   return (
     <div className="min-h-screen pt-48 px-6" style={{ background: 'rgb(19,19,24)' }}>
+      {articleSchema && (
+        <script type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      )}
       <div className="max-w-3xl mx-auto text-white">
         <div 
           className="prose prose-invert max-w-none

@@ -75,8 +75,11 @@ const Footer = ({ data }) => {
                     <Link to="/blogs/blog-list" className="text-white hover:underline text-sm mr-4">
                         Our Blogs
                     </Link>
-                    <Link to="/blogs/corporate-gifting-seo" className="text-white hover:underline text-sm">
+                    <Link to="/blogs/corporate-gifting-seo" className="text-white hover:underline text-sm mr-4">
                         Corporate Gifting: Best Practices
+                    </Link>
+                    <Link to="/blogs/diwali-corporate-gifting-ideas-2026" className="text-white hover:underline text-sm">
+                        Diwali Gifting Ideas
                     </Link>
                 </div>
 
